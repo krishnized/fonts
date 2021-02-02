@@ -1,0 +1,25 @@
+{
+  "name": "@krishnized/fonts",
+  "version": "1.0.0",
+  "description": "Google-ish fonts with enhanced unicode combining chars support for cyrillics.",
+  "main": "index.js",
+  "scripts": {
+    "build": "makeotf -ff ./font/diacritics.fea -f ./font/Lora-original.ttf -o ./font/Lora.otf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnized/fonts.git"
+  },
+  "keywords": [
+    "unicode",
+    "lora",
+    "noto",
+    "google-fonts"
+  ],
+  "author": "dmitry iv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnized/fonts/issues"
+  },
+  "homepage": "https://github.com/krishnized/fonts#readme"
+}
