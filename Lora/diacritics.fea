@@ -29,7 +29,7 @@ lookup diacritics {
   pos base [uni041D uni0422 uni0425] <anchor 420 700> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
 
   # А
-  pos base [uni0410] <anchor 420 700> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
+  pos base [uni0410] <anchor 330 700> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
 
   # ЛД
   pos base [uni0414 uni041B] <anchor 400 700> mark @TOP_MARKS <anchor 300 0> mark @BOTTOM_MARKS;
