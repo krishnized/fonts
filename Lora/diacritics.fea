@@ -1,27 +1,44 @@
 lookup diacritics {
-  markClass [gravecomb acutecomb gravecomb.case acutecomb.case dotaccent uni0307] <anchor 100 500> @TOP_MARKS;
+  markClass [gravecomb acutecomb dotaccent uni0307] <anchor 100 500> @TOP_MARKS;
+  markClass [gravecomb.case acutecomb.case] <anchor 100 700> @TOP_MARKS;
   markClass [uni0308 uni0304 uni0302 uni0306 brevecombcy] <anchor 180 500> @TOP_MARKS;
-  markClass [tildecomb] <anchor 240 500> @TOP_MARKS;
+  markClass [tildecomb] <anchor 200 500> @TOP_MARKS;
+  markClass [tildecomb.case] <anchor 240 700> @TOP_MARKS;
   # markClass [dieresis] <anchor 300 -10> @TOP_MARKS;
-  markClass [dotbelowcomb uni0326 uni0327 uni0328 uni0335] <anchor 100 20> @BOTTOM_MARKS;
+  markClass [dotbelowcomb uni0326 uni0327 uni0328 uni0335] <anchor 100 0> @BOTTOM_MARKS;
 
   # авгдежзиклнопстхчэя
-  pos base [uni0430 uni0432 uni0433 uni0491 uni0435 uni0437 uni0438 uni043A uni043B uni043D uni043E uni043F uni0441 uni0447 uni0446 uni044C uni044A uni0455 uni044D uni0454 uni044F] <anchor 300 500> mark @TOP_MARKS <anchor 280 0> mark @BOTTOM_MARKS;
+  pos base [uni0430 uni0432 uni0433 uni0491 uni0435 uni0437 uni0438 uni043A uni043B uni043D uni043E uni043F uni0441 uni0447 uni0446 uni044C uni044A uni0455 uni044D uni0454 uni044F h] <anchor 300 500> mark @TOP_MARKS <anchor 270 0> mark @BOTTOM_MARKS;
 
   # бд (uppers)
   pos base [uni0431 uni0434] <anchor 240 0> mark @BOTTOM_MARKS;
 
   # ур (lowers)
-  pos base [uni0443 uni0440] <anchor 280 500> mark @TOP_MARKS <anchor 400 0> mark @BOTTOM_MARKS;
+  pos base [uni0443 uni0440] <anchor 280 500> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
+
+  # iıj...
+  pos base [i dotlessi uni0456] <anchor 180 500> mark @TOP_MARKS <anchor 180 0> mark @BOTTOM_MARKS;
 
   # х
   pos base [uni0445] <anchor 280 500> mark @TOP_MARKS <anchor 240 0> mark @BOTTOM_MARKS;
 
   # ш м т ж
-  pos base [uni0448 uni043C uni0442 uni0436] <anchor 480 500> mark @TOP_MARKS <anchor 440 0> mark @BOTTOM_MARKS;
+  pos base [uni0448 uni043C uni0442 uni0436] <anchor 480 500> mark @TOP_MARKS <anchor 420 0> mark @BOTTOM_MARKS;
+
+  # РНХЛТ
+  pos base [uni041D uni0422 uni0425] <anchor 420 700> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
+
+  # А
+  pos base [uni0410] <anchor 420 700> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
+
+  # ЛД
+  pos base [uni0414 uni041B] <anchor 400 700> mark @TOP_MARKS <anchor 300 0> mark @BOTTOM_MARKS;
+
+  # РУГI
+  pos base [uni0420 uni0423 uni0413 uni0406 uni0407] <anchor 330 700> mark @TOP_MARKS <anchor 160 0> mark @BOTTOM_MARKS;
 
   # Ш Щ М Ж
-  pos base [uni0428 uni0429 uni041C uni0416] <anchor 500 500> mark @TOP_MARKS;
+  pos base [uni0428 uni0429 uni041C uni0416] <anchor 500 700> mark @TOP_MARKS <anchor 440 0> mark @BOTTOM_MARKS;
 
 } diacritics;
 
