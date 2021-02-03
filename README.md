@@ -11,16 +11,44 @@ See [demo](https://krishnized.com/fonts).
 
 ## Usage
 
-Option 1.
-Use font directly.
+#### Option 1.
 
-Option 2.
-Import to font-stack full font with needed unicode subrance.
+Download font file and use font directly as replacement to original font:
 
-Option 3.
-Import subranged cyrillic font.
+```html
+<style>
+  @font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-display: swap;
+    src: url(./NotoSerif-Italic.otf);
+  }
+</style>
+```
+
+#### Option 2 (cyrillic combinations only).
+
+Extend original font with cyrillic unicode subrange:
+
+```html
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap" rel="stylesheet">
+<style>
+  @font-face {
+    font-family: 'VedabaseIO Noto Serif Italic';
+    font-style: italic;
+    font-display: swap;
+    src: url(./NotoSerif-Italic-comb.otf);
+  }
+  .noto-italic {
+    font-family: 'VedabaseIO Noto Serif Italic', 'Noto Serif', serif;
+  }
+</style>
+```
 
 ## Disclaimer
 
 This repo is a fix for [google/fonts#2974](https://github.com/google/fonts/issues/2974) and alike.
-Once the listed fonts get support from google, it is recommended to switch back.
+Once the listed fonts get unicode cyrillic combinations support, it is recommended to switch back to original version.
+
+
+<p align="center"><a href="https://github.com/krishnized">ॐ</a></p>
