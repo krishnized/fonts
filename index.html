@@ -20,6 +20,18 @@
     font-display: swap;
     src: url(./Noto/NotoSerif-Italic.otf);
   }
+  @font-face {
+    font-family: 'Noto-original';
+    font-style: italic;
+    font-display: swap;
+    src: url(./Noto/original/NotoSerif-Italic.otf);
+  }
+  @font-face {
+    font-family: 'Noto-combinations';
+    font-style: italic;
+    font-display: swap;
+    src: url(./Noto/NotoSerif-Italic-combinations.otf);
+  }
 
   /* flex font size */
   html {font-size: 100%;}
@@ -101,6 +113,11 @@
   .noto {
     font-family: 'Noto';
   }
+  .noto-comb {
+    /* font-family: 'Noto-combinations'; */
+    font-family: 'Noto-combinations', 'Noto-original';
+    /* font-family: 'Noto-original'; */
+  }
   .italic {
     font-style: italic;
   }
@@ -139,14 +156,14 @@
 </ul>
 
 <h2><a href="#">Noto Serif Italic</a></h2>
-<blockquote class="noto">
+<blockquote class="noto-comb">
 дхр̣тара̄шт̣ра ува̄ча<br>
 дхарма-кшетре куру-кшетре<br>
 самавета̄ йуйутсавах̣<br>
 ма̄мака̄х̣ па̄н̣д̣ава̄ш́ чаива<br>
 ким акурвата сан̃джайа<br>
 </blockquote>
-<ul class="glyphs noto">
+<ul class="glyphs noto-comb">
 <li><!--Ā-->А̄<li><!--ā-->а̄<li>Д̣<li><!--∂̣-->д̣<li>Л̣<li>л̣<li>Л̐<li>л̐<li>М̇<li>м̇<li>М̣<li>м̣<li>М̐<li>м̐<li>Н̇<li>н̇<li>Н̣<li>н̣<li>Н̃<li>н̃<li>Р̣<li>р̣<li>Р̣̄<li>Т̣<li>т̣<li>Х̣<li>х̣<li>Ш́<li>ш́<li>ḥ<li>Ī<li>ı̄
 </ul>
 

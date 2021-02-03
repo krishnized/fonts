@@ -28,7 +28,7 @@ Download font file and use font directly as replacement to original font:
 
 #### Option 2 (cyrillic combinations only).
 
-Extend original font with cyrillic unicode subrange:
+Include combinations-only font file to extend original font in font stack:
 
 ```html
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap" rel="stylesheet">
@@ -37,7 +37,7 @@ Extend original font with cyrillic unicode subrange:
     font-family: 'VedabaseIO Noto Serif Italic';
     font-style: italic;
     font-display: swap;
-    src: url(./NotoSerif-Italic-comb.otf);
+    src: url(./NotoSerif-Italic-combinations.otf);
   }
   .noto-italic {
     font-family: 'VedabaseIO Noto Serif Italic', 'Noto Serif', serif;

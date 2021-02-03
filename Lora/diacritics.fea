@@ -8,7 +8,7 @@ lookup diacritics {
   markClass [dotbelowcomb uni0326 uni0327 uni0328 uni0335] <anchor 100 0> @BOTTOM_MARKS;
 
   # авгдежзиклнопстхчэя
-  pos base [uni0430 uni0432 uni0433 uni0491 uni0435 uni0437 uni0438 uni043A uni043B uni043D uni043E uni043F uni0441 uni0447 uni0446 uni044C uni044A uni0455 uni044D uni0454 uni044F h] <anchor 300 500> mark @TOP_MARKS <anchor 270 0> mark @BOTTOM_MARKS;
+  pos base [uni0430 uni0432 uni0433 uni0435 uni0437 uni0438 uni043A uni043B uni043D uni043E uni043F uni0441 uni0447 uni0446 uni044C uni044A uni0455 uni044D uni0454 uni044F h] <anchor 300 500> mark @TOP_MARKS <anchor 270 0> mark @BOTTOM_MARKS;
 
   # бд (uppers)
   pos base [uni0431 uni0434] <anchor 240 0> mark @BOTTOM_MARKS;
@@ -35,7 +35,7 @@ lookup diacritics {
   pos base [uni0414 uni041B] <anchor 400 700> mark @TOP_MARKS <anchor 300 0> mark @BOTTOM_MARKS;
 
   # РУГI
-  pos base [uni0420 uni0423 uni0413 uni0406 uni0407] <anchor 330 700> mark @TOP_MARKS <anchor 160 0> mark @BOTTOM_MARKS;
+  pos base [uni0420 uni0423 uni0413 uni0406] <anchor 330 700> mark @TOP_MARKS <anchor 160 0> mark @BOTTOM_MARKS;
 
   # Ш Щ М Ж
   pos base [uni0428 uni0429 uni041C uni0416] <anchor 500 700> mark @TOP_MARKS <anchor 440 0> mark @BOTTOM_MARKS;
