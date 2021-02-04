@@ -1,7 +1,3 @@
-@latin_caps = [A - Z];
-@cyr_caps = [uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F];
-# @cyr_caps = [uni0410 - uni042F];
-
 @named_combs = [acutecomb gravecomb tildecomb hookabovecomb uni030F];
 @comma_combs = [uni0312 uni0313 uni0314 uni0315];
 @top_combs = [uni0302 uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni0310 uni0311 uni031A uni031B uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0350 uni0351 uni0352 uni0357 uni0358 uni035B uni035D uni035E uni0360 uni0361];
@@ -17,24 +13,33 @@ lookup default {
 } default;
 
 lookup pairs {
-  pos [A B D E G H K N O P R S T U V X Y Z @cyr_caps] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [A B E G H K N O P R S T U V X Y Z b d h k t uni0410 uni0411 uni0415 uni0417 uni041A uni0421 uni0422 uni0423 uni0427 uni042A uni042C uni0431 uni0434] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
 
   # narrower for tops
-  pos [C F] 200 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
-
-  # FIXME: together these two get ignored
-  # pos [I] 200 [@bottom_combs dotbelowcomb] <0 0 0 0>;
-  pos [I] 300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [C] 200 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
 
   pos L -150 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
-  pos [M W] -300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
 
-  # # lower bottoms
+  enum pos [M W uni0416 uni0424 uni041C uni0428 uni0429 uni042B uni042E] -300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [M W uni0416 uni0424 uni041C uni0428 uni0429 uni042B uni042E] -400 [@bottom_combs dotbelowcomb] <0 0 0 0>;
+
+  enum pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] -300 [@named_combs @top_combs @comma_combs] <0 0 0 0>;
+  pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] -400 [@bottom_combs dotbelowcomb] <0 0 0 0>;
+
+  # left bottoms
+  enum pos [F D H uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0425 uni0426 uni042D uni042F] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [F D H uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0425 uni0426 uni042D uni042F] -200 [@bottom_combs dotbelowcomb] <0 0 0 0>;
+
+  # lower bottoms
+  enum pos [Q] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
   pos [Q] 0 [@bottom_combs dotbelowcomb] <0 -500 0 0>;
-  pos [Q] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
 
-  pos [J] 0 [@bottom_combs dotbelowcomb] <0 -500 0 0>;
-  pos [J] 300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  enum pos [I J] 300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [J j] 0 [@bottom_combs dotbelowcomb] <0 -500 0 0>;
+  pos [I i l p t] 200 [@bottom_combs dotbelowcomb] <0 0 0 0>;
+
+  pos [f uni0444] 600 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [i j l] 300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
 } pairs;
 
 # lookup mark {

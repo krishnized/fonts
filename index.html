@@ -188,7 +188,7 @@ $('.glyphs', el => {
   <tr><th></th>${ marks.map(mark => `<th
     title="uni${mark.charCodeAt(0).toString(16).padStart(4,0)}"
     >&nbsp;&nbsp;${ mark }</th>`).join('') }</tr>
-  ${ chars.map(char => `<tr><th>${ char }</th>${ marks.map(mark => `<td title="uni${mark.charCodeAt(0).toString(16).padStart(4,0)}">${char + mark}</td>`).join('') }</tr>`).join('')}
+  ${ chars.map(char => `<tr><th title="uni${ char.charCodeAt(0).toString(16).padStart(4,0)}">${ char }</th>${ marks.map(mark => `<td title="uni${mark.charCodeAt(0).toString(16).padStart(4,0)}">${char + mark}</td>`).join('') }</tr>`).join('')}
 
   `
 })
