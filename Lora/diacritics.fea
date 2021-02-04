@@ -45,17 +45,3 @@ lookup diacritics {
 feature mark {
   lookup diacritics;
 } mark;
-
-# feature mkmk {
-#  script DFLT;
-#      language dflt ;
-      # lookup mkmkMarktoMarklookup3;
-
-#  script cyrl;
-#      language dflt ;
-#       lookup mkmkMarktoMarklookup3;
-
-#  script latn;
-#      language dflt ;
-#       lookup mkmkMarktoMarklookup3;
-# } mkmk;

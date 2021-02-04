@@ -63,7 +63,7 @@
   h5 {font-size: 1.125rem;}
 
   body {
-    max-width: 108ch;
+    /* max-width: 108ch; */
     margin: 0 auto;
     text-align: center;
     line-height: 1.5;
@@ -95,13 +95,13 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    max-width: 30rem;
+    max-width: 108ch;
+    overflow: auto;
     margin: 0 auto;
-    font-size: 1.5rem;
+    font-size: 1.08rem;
   }
-  .glyphs li {
-    width: 3rem;
-    height: 3rem;
+  .glyphs tbody {
+    margin: 0 auto;
   }
 
   .default {
@@ -142,7 +142,7 @@
 <li>А̄<li>а̄<li>Д̣<li>д̣<li>Л̣<li>л̣<li>Л̐<li>л̐<li>М̇<li>м̇<li>М̣<li>м̣<li>М̐<li>м̐<li>Н̇<li>н̇<li>Н̣<li>н̣<li>Н̃<li>н̃<li>Р̣<li>р̣<li>Р̣̄<li>Т̣<li>т̣<li>Х̣<li>х̣<li>Ш́<li>ш́<li>ḥ<li>Ī<li>ı̄
 </ul>
 -->
-
+<!--
 <h2><a href="#lora">Lora Italic</a></h2>
 <blockquote class="lora">
 дхр̣тара̄шт̣ра ува̄ча<br>
@@ -151,23 +151,45 @@
 ма̄мака̄х̣ па̄н̣д̣ава̄ш́ чаива<br>
 ким акурвата сан̃джайа<br>
 </blockquote>
-<ul class="glyphs lora">
-<li><!--Ā-->А̄<li><!--ā-->а̄<li>Д̣<li><!--∂̣-->д̣<li>Л̣<li>л̣<li>Л̐<li>л̐<li>М̇<li>м̇<li>М̣<li>м̣<li>М̐<li>м̐<li>Н̇<li>н̇<li>Н̣<li>н̣<li>Н̃<li>н̃<li>Р̣<li>р̣<li>Р̣̄<li>Т̣<li>т̣<li>Х̣<li>х̣<li>Ш́<li>ш́<li>ḥ<li>Ī<li>ı̄
-</ul>
+<details>
+<summary>Glyphs</summary>
+<table class="glyphs lora"></table>
+</details> -->
+
 
 <h2><a href="#">Noto Serif Italic</a></h2>
-<blockquote class="noto-comb">
+<blockquote class="noto">
 дхр̣тара̄шт̣ра ува̄ча<br>
 дхарма-кшетре куру-кшетре<br>
 самавета̄ йуйутсавах̣<br>
 ма̄мака̄х̣ па̄н̣д̣ава̄ш́ чаива<br>
 ким акурвата сан̃джайа<br>
 </blockquote>
-<ul class="glyphs noto-comb italic">
-<li><!--Ā-->А̄<li><!--ā-->а̄<li>Д̣<li><!--∂̣-->д̣<li>Л̣<li>л̣<li>Л̐<li>л̐<li>М̇<li>м̇<li>М̣<li>м̣<li>М̐<li>м̐<li>Н̇<li>н̇<li>Н̣<li>н̣<li>Н̃<li>н̃<li>Р̣<li>р̣<li>Р̣̄<li>Т̣<li>т̣<li>Х̣<li>х̣<li>Ш́<li>ш́<li>ḥ<li>Ī<li>ı̄
-</ul>
+<table class="glyphs noto"></table>
+<!-- <ul class="glyphs noto-comb italic">
+<li>А̄<li>а̄<li>Д̣<li>д̣<li>Л̣<li>л̣<li>Л̐<li>л̐<li>М̇<li>м̇<li>М̣<li>м̣<li>М̐<li>м̐<li>Н̇<li>н̇<li>Н̣<li>н̣<li>Н̃<li>н̃<li>Р̣<li>р̣<li>Р̣̄<li>Т̣<li>т̣<li>Х̣<li>х̣<li>Ш́<li>ш́<li>ḥ<li>Ī<li>ı̄
+</ul> -->
 
 <br>
 <br>
 <p align="center"><a href="https://github.com/krishnized">ॐ</a></p>
 
+<script type="module">
+import {$} from "https://unpkg.com/spect@22.0.2/dist/spect.min.js"
+
+const charRange = (from, to) => Array.from({length: to - from}).map((_,i) => String.fromCharCode(from + i))
+
+// create glyph preview tables
+const marks = charRange(0x0300, 0x0324)
+const chars = [...charRange(0x0041, 0x005A), ...charRange(0x0061, 0x007A), ...charRange(0x0410, 0x044F)]
+
+$('.glyphs', el => {
+  el.innerHTML = `
+  <tr><th></th>${ marks.map(mark => `<th
+    title="uni${mark.charCodeAt(0).toString(16).padStart(4,0)}"
+    >&nbsp;&nbsp;${ mark }</th>`).join('') }</tr>
+  ${ chars.map(char => `<tr><th>${ char }</th>${ marks.map(mark => `<td title="uni${mark.charCodeAt(0).toString(16).padStart(4,0)}">${char + mark}</td>`).join('') }</tr>`).join('')}
+
+  `
+})
+</script>

@@ -6,7 +6,7 @@
   "scripts": {
     "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/original/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
     "build-lora-comb": "makeotf -ff ./Lora/diacritics.fea -gs -gf ./GlyphOrderAndAliasDB.combinations -r -f ./Lora/Lora-Italic.otf -o ./Lora/Lora-Italic-combinations.otf",
-    "build-noto": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf",
+    "build-noto": "makeotf -ff ./Noto/diacritics.fea -f ./Noto/original/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf",
     "build-noto-comb": "makeotf -ff ./Noto/diacritics.fea -gs -gf ./GlyphOrderAndAliasDB.combinations -r -f ./Noto/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic-combinations.otf"
   },
   "repository": {
