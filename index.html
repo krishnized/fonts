@@ -118,10 +118,9 @@
     overflow: auto;
     max-width: 108ch;
     margin: 0 auto;
-    font-size: 1.5rem;
+    font-size: 1.08rem;
   }
   #table tbody {
-    font-size: 1.08rem;
     margin: 0 auto;
   }
 
@@ -156,18 +155,20 @@
 
 <h2>
 <select id="select">
-<option class="noto regular" value="noto regular">Noto Serif Regular</option>
-<option class="noto italic" value="noto italic" selected>Noto Serif Italic</option>
-<option class="noto bold" value="noto bold" selected>Noto Serif Bold</option>
+<option class="noto regular" value="noto regular" selected>Noto Serif Regular</option>
+<option class="noto italic" value="noto italic">Noto Serif Italic</option>
+<option class="noto bold" value="noto bold">Noto Serif Bold</option>
 </select>
+</h2>
+
+<section id="preview" class="">
 <script>
+preview.className = select.value
 select.addEventListener('change', e => {
   preview.className = select.value
 })
 </script>
-</h2>
 
-<section id="preview" class="noto italic">
 <blockquote>
 дхр̣тара̄шт̣ра ува̄ча<br>
 дхарма-кшетре куру-кшетре<br>
