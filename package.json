@@ -6,8 +6,9 @@
   "scripts": {
     "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/original/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
     "build-lora-comb": "makeotf -ff ./Lora/diacritics.fea -gs -gf ./GlyphOrderAndAliasDB.combinations -r -f ./Lora/Lora-Italic.otf -o ./Lora/Lora-Italic-combinations.otf",
-    "build-noto-regular": "makeotf -ff ./Noto/diacritics.fea -gs -r -f ./Noto/original/NotoSerif-Regular.ttf -o ./Noto/NotoSerif-Regular.otf",
-    "build-noto-italic": "makeotf -ff ./Noto/diacritics.fea -gs -r -f ./Noto/original/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf"
+    "build-noto-regular": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Regular.otf -o ./Noto/NotoSerif-Regular.otf",
+    "build-noto-bold": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Bold.otf -o ./Noto/NotoSerif-Bold.otf",
+    "build-noto-italic": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf"
   },
   "repository": {
     "type": "git",
