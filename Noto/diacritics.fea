@@ -13,7 +13,7 @@ lookup default {
 } default;
 
 lookup pairs {
-  pos [A B E G H K O P R S T U V X Y Z b d h k t uni0411 uni0415 uni0417 uni041A uni0421 uni0422 uni0423 uni0427 uni042A uni042C uni0431 uni0434 uni0439] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  pos [A B E G H K O R S T U V X Y Z b d h k t uni0411 uni0415 uni0417 uni041A uni0421 uni0422 uni0423 uni0427 uni042A uni042C uni0431 uni0434 uni0439] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
 
   # narrower for tops
   pos [C] 200 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
@@ -27,8 +27,8 @@ lookup pairs {
   pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] -400 [@bottom_combs dotbelowcomb];
 
   # left bottoms
-  enum pos [F D H N uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
-  pos [F D H N q uni0410 uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] -200 [@bottom_combs dotbelowcomb];
+  enum pos [F D H N P uni0410 uni0412 uni0413 uni0414 uni0418 uni0419 uni0420 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
+  enum pos [F D H N P q uni0410 uni0412 uni0413 uni0414 uni0418 uni0419 uni0420 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] -200 [@bottom_combs dotbelowcomb];
 
   # lower bottoms
   enum pos [Q] 0 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
@@ -42,10 +42,10 @@ lookup pairs {
   enum pos [uni0444] 100 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
   enum pos [uni0440 uni0443] 300 [@bottom_combs dotbelowcomb];
   pos [j l] 300 [@named_combs @top_combs @comma_combs] <0 365 0 0>;
-  pos [i dotlessi] 300 [@named_combs @top_combs @comma_combs];
+  pos [i dotlessi iota] 300 [@named_combs @top_combs @comma_combs];
 } pairs;
 
-# lookup mark {
+lookup mark {
   # markClass [gravecomb acutecomb] <anchor -400 1250> @TOP_MARKS;
   # markClass [dotaccent uni0307] <anchor 150 1250> @TOP_MARKS;
   # markClass [uni0308 uni0304 uni0302 uni0306 uni0310] <anchor 150 1250> @TOP_MARKS;
@@ -77,8 +77,8 @@ lookup pairs {
   # # АРНХЛТ
   # pos base [uni0410 uni0414 uni041B uni0422 uni0425] <anchor 950 1600> mark @TOP_MARKS <anchor 480 0> mark @BOTTOM_MARKS;
 
-  # # РУГI
-  # pos base [uni0420 uni0423 uni0413 uni0406] <anchor 800 1600> mark @TOP_MARKS <anchor 200 0> mark @BOTTOM_MARKS;
+  # РУГI
+  pos base [uni0420 uni0423 uni0413 uni0406] <anchor 600 365> mark @top_combs <anchor 200 0> mark @bottom_combs;
 
   # #Н
   # pos base uni041D <anchor 950 1600> mark @TOP_MARKS <anchor 650 0> mark @BOTTOM_MARKS;
@@ -87,9 +87,10 @@ lookup pairs {
   # pos base [uni041C uni0416] <anchor 1120 1600> mark @TOP_MARKS <anchor 770 0> mark @BOTTOM_MARKS;
   # # Ш Щ
   # pos base [uni0428 uni0429] <anchor 1300 1600> mark @TOP_MARKS <anchor 770 0> mark @BOTTOM_MARKS;
-# } mark;
+} mark;
 
 feature mark {
   lookup default;
   lookup pairs;
+  lookup mark;
 } mark;
