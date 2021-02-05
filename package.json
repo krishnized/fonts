@@ -4,11 +4,11 @@
   "description": "Google-ish fonts with enhanced unicode combining chars support for cyrillics.",
   "main": "index.js",
   "scripts": {
-    "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/original/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
-    "build-lora-comb": "makeotf -ff ./Lora/diacritics.fea -gs -gf ./GlyphOrderAndAliasDB.combinations -r -f ./Lora/Lora-Italic.otf -o ./Lora/Lora-Italic-combinations.otf",
-    "build-noto-regular": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Regular.otf -o ./Noto/NotoSerif-Regular.otf",
-    "build-noto-bold": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Bold.otf -o ./Noto/NotoSerif-Bold.otf",
-    "build-noto-italic": "makeotf -ff ./Noto/diacritics.fea -r -f ./Noto/original/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf"
+    "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/_src/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
+    "build-noto-r": "makeotf -ff ./Noto/diacritics.fea -nshw -r -f ./Noto/_src/NotoSerif-Regular.ttf -o ./Noto/NotoSerif-Regular-full.otf",
+    "build-noto-b": "makeotf -ff ./Noto/diacritics.fea -nshw -r -f ./Noto/_src/NotoSerif-Bold.ttf -o ./Noto/NotoSerif-Bold-full.otf",
+    "build-noto-i": "makeotf -ff ./Noto/diacritics.fea -nshw -r -f ./Noto/_src/NotoSerif-Italic.ttf -o ./Noto/NotoSerif-Italic-full.otf",
+    "subset-noto-r": "pyftsubset ./Noti/NotoSerif-Italic-full.otf -unicodes-file=./unicodes --ignore-missing-unicodes --output-file=./Noto/NotoSerif-Regular.otf"
   },
   "repository": {
     "type": "git",
