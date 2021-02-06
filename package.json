@@ -8,8 +8,9 @@
     "build-noto-r": "makeotf -ff ./Noto/NotoSerif-Regular.fea -nshw -r -f ./Noto/_src/NotoSerif-Regular.otf -o ./Noto/NotoSerif-Regular.otf",
     "build-noto-b": "makeotf -ff ./Noto/NotoSerif-Bold.fea -nshw -r -f ./Noto/_src/NotoSerif-Bold.otf -o ./Noto/NotoSerif-Bold.otf",
     "build-noto-i": "makeotf -ff ./Noto/NotoSerif-Italic.fea -nshw -r -f ./Noto/_src/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf",
-    "subset-noto-r": "pyftsubset ./Noto/NotoSerif-Regular.otf --unicodes-file=./unicodes --ignore-missing-unicodes --output-file=./Noto/NotoSerif-Regular-subset.otf",
-    "subset-noto-b": "pyftsubset ./Noto/NotoSerif-Bold.otf --unicodes-file=./unicodes --ignore-missing-unicodes --output-file=./Noto/NotoSerif-Bold-subset.otf"
+    "subset-noto-r": "pyftsubset ./Noto/NotoSerif-Regular.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Regular.woff2",
+    "subset-noto-b": "pyftsubset ./Noto/NotoSerif-Bold.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Bold.woff2",
+    "subset-noto-i": "pyftsubset ./Noto/NotoSerif-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Italic.woff2"
   },
   "repository": {
     "type": "git",

@@ -14,22 +14,27 @@ lookup default {
   pos @bottom_comb <-560 0 0 0>;
 } default;
 
-lookup marks1 {
+lookup marks {
   # tops
-  pos [A B C D E F G H K L N O P Q R S T U V X Y Z b d h k t uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni0418 uni0419 uni041A uni041B uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni042A uni042C uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_top_comb' <0 365 0 0>;
+  pos [A B C D E F G H K L N O P Q R S T U V X Y Z b d h k t uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni041E uni0420 uni0421 uni0422 uni0423 uni0425 uni042A uni042C uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_top_comb' <0 365 0 0>;
   pos [I J] @all_top_comb' <300 365 0 0>;
+  pos [uni0418 uni0419 uni041D uni041F uni0424 uni0426 uni0427] @all_top_comb' <-108 365 0 0>;
   pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_top_comb' <-300 365 0 0>;
-  pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_top_comb' <-200 0 0 0>;
+  pos [m uni0436 uni0442 uni0448 uni0449 uni044B uni044E] @all_top_comb' <-300 0 0 0>;
+  pos [w uni043C] @all_top_comb' <-200 0 0 0>;
   pos [j l f] @all_top_comb' <365 365 0 0>;
   pos [i dotlessi iota] @all_top_comb' <300 0 0 0>;
 
-  # bottoms, tops
-  pos [A B C D E F G H K L N O P Q R S T U V X Y Z b d h k t uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni0418 uni0419 uni041A uni041B uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni042A uni042C uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_bottom_comb @all_top_comb' <0 365 0 0>;
+  # tops after bottoms
+  pos [A B C D E F G H K L N O P Q R S T U V X Y Z b d h k t uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni041E uni0420 uni0421 uni0422 uni0423 uni0425 uni042A uni042C uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_bottom_comb @all_top_comb' <0 365 0 0>;
   pos [I J] @all_bottom_comb @all_top_comb' <300 365 0 0>;
+  pos [uni0418 uni0419 uni041D uni041F uni0424 uni0426 uni0427] @all_bottom_comb @all_top_comb' <-108 365 0 0>;
   pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_bottom_comb @all_top_comb' <-300 365 0 0>;
-  pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_bottom_comb @all_top_comb' <-200 0 0 0>;
+  pos [m uni0436 uni0442 uni0448 uni0449 uni044B uni044E] @all_bottom_comb @all_top_comb' <-300 0 0 0>;
+  pos [w uni043C] @all_bottom_comb @all_top_comb' <-200 0 0 0>;
   pos [j l f] @all_bottom_comb @all_top_comb' <365 365 0 0>;
   pos [i dotlessi iota] @all_bottom_comb @all_top_comb' <300 0 0 0>;
+
 
   # bottoms
   pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_bottom_comb' <-500 0 0 0>;
@@ -38,70 +43,15 @@ lookup marks1 {
   pos [I c e i l p t uni0435 uni0437 uni0440 uni0441 uni0443 uni0444] @all_bottom_comb' <200 0 0 0>;
   pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_bottom_comb' <-300 0 0 0>;
 
-  # tops, bottoms
+  # bottoms after tops
   pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_top_comb @all_bottom_comb' <-500 0 0 0>;
   pos [Q J j g f y] @all_top_comb @all_bottom_comb' <0 -500 0 0>;
   pos [F D H N P uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] @all_top_comb @all_bottom_comb' <-200 0 0 0>;
   pos [I c e i l p t uni0435 uni0437 uni0440 uni0441 uni0443 uni0444] @all_top_comb @all_bottom_comb' <200 0 0 0>;
   pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_top_comb @all_bottom_comb' <-300 0 0 0>;
-} marks1;
-
-# lookup marks2 {
-  # pos [A B E G H K O R S T U V X Y Z b d h k t uni0411 uni0415 uni0417 uni041A uni0421 uni0422 uni0423 uni0427 uni042A uni042C uni0431 uni0434 uni0439] [@bottom_comb dotbelowcomb] [@named_comb @top_comb @comma_comb]' <0 365 0 0>;
-
-  # pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] [@bottom_comb dotbelowcomb] [@named_comb @top_comb @comma_comb]' <0 365 0 0>;
-  # # pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] -500 [@bottom_comb dotbelowcomb];
-
-  # pos [F D H N P uni0410 uni0412 uni0413 uni0414 uni0418 uni0419 uni0420 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] [@bottom_comb dotbelowcomb] [@named_comb @top_comb @comma_comb]' <0 365 0 0>;
-  # # pos [F D H N P uni0410 uni0412 uni0413 uni0414 uni0418 uni0419 uni0420 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] -200 [@bottom_comb dotbelowcomb];
-# } marks2;
-
-# lookup mark {
-  # markClass [gravecomb acutecomb] <anchor -400 1250> @TOP_MARKS;
-  # markClass [dotaccent uni0307] <anchor 150 1250> @TOP_MARKS;
-  # markClass [uni0308 uni0304 uni0302 uni0306 uni0310] <anchor 150 1250> @TOP_MARKS;
-  # markClass [tildecomb] <anchor -540 1250> @TOP_MARKS;
-  # # markClass [dieresis] <anchor 300 -10> @TOP_MARKS;
-  # markClass [dotbelowcomb uni0326] <anchor -770 0> @BOTTOM_MARKS;
-
-  # # авгдежзиклнопстхчэя
-  # pos base [uni0430 uni0432 uni0433 uni0435 uni0437 uni0438 uni043A uni043D uni043E uni043F uni0441 uni0447 uni0446 uni044C uni044A uni0455 uni044D uni0454 uni044F] <anchor 740 1250> mark @TOP_MARKS <anchor 540 0> mark @BOTTOM_MARKS;
-
-  # # бд (uppers)
-  # pos base [uni0431 uni0434] <anchor 400 0> mark @BOTTOM_MARKS;
-
-  # # х
-  # pos base [uni0445] <anchor 740 1250> mark @TOP_MARKS <anchor 400 0> mark @BOTTOM_MARKS;
-
-  # # л
-  # pos base [uni043B] <anchor 820 1250> mark @TOP_MARKS <anchor 540 0> mark @BOTTOM_MARKS;
-
-  # # ур (lowers)
-  # pos base [uni0443 uni0440] <anchor 740 1250> mark @TOP_MARKS <anchor 550 0> mark @BOTTOM_MARKS;
-
-  # # iıj...
-  # pos base [i dotlessi uni0456 iota uni0269 uni026A uni025F] <anchor 380 1250> mark @TOP_MARKS <anchor 400 0> mark @BOTTOM_MARKS;
-
-  # # ш м т ж
-  # pos base [uni0448 uni043C uni0442 uni0436] <anchor 1080 1250> mark @TOP_MARKS <anchor 770 0> mark @BOTTOM_MARKS;
-
-  # # АРНХЛТ
-  # pos base [uni0410 uni0414 uni041B uni0422 uni0425] <anchor 950 1600> mark @TOP_MARKS <anchor 480 0> mark @BOTTOM_MARKS;
-
-  # РУГI multiple marks
-  # pos base [uni0420 uni0423 uni0413 uni0406] <anchor 600 365> mark @top_comb <anchor 200 0> mark @bottom_comb;
-
-  # #Н
-  # pos base uni041D <anchor 950 1600> mark @TOP_MARKS <anchor 650 0> mark @BOTTOM_MARKS;
-
-  # # М Ж
-  # pos base [uni041C uni0416] <anchor 1120 1600> mark @TOP_MARKS <anchor 770 0> mark @BOTTOM_MARKS;
-  # # Ш Щ
-  # pos base [uni0428 uni0429] <anchor 1300 1600> mark @TOP_MARKS <anchor 770 0> mark @BOTTOM_MARKS;
-# } mark;
+} marks;
 
 feature mark {
   lookup default;
-  lookup marks1;
-  # lookup marks2;
+  lookup marks;
 } mark;

@@ -16,19 +16,20 @@
   @font-face {
     font-family: 'Noto';
     font-display: swap;
-    src: url(./Noto/NotoSerif-Regular-subset.otf);
+    src: url(./Noto/NotoSerif-Regular.woff2);
   }
   @font-face {
     font-family: 'Noto';
     font-style: italic;
     font-display: swap;
-    src: url(./Noto/NotoSerif-Italic.otf);
+    /* src: url(./Noto/NotoSerif-Italic.otf); */
+    src: url(./Noto/NotoSerif-Italic.woff2);
   }
   @font-face {
     font-family: 'Noto';
     font-weight: bold;
     font-display: swap;
-    src: url(./Noto/NotoSerif-Bold.otf);
+    src: url(./Noto/NotoSerif-Bold.woff2);
   }
 
   /* flex font size */
@@ -172,9 +173,9 @@
 
 <h2>
 <select id="select">
-<option class="noto regular" value="noto regular">Noto Serif Regular</option>
-<option class="noto italic" value="noto italic">Noto Serif Italic</option>
-<option class="noto bold" value="noto bold" selected>Noto Serif Bold</option>
+<!-- <option class="noto regular" value="noto regular">Noto Serif Regular</option> -->
+<option class="noto italic" value="noto italic" selected>Noto Serif Italic</option>
+<option class="noto bold" value="noto bold">Noto Serif Bold</option>
 </select>
 </h2>
 
@@ -209,7 +210,8 @@ const charRange = (from, to) => Array.from({length: to - from + 1}).map((_,i) =>
 
 // create glyph preview tables
 // const marks = charRange(0x0300, 0x0324)
-const marks = [...charRange(0x0300, 0x0310), ...[0x0316, 0x0317, 0x0320, 0x0323, 0x0324, 0x0325, 0x0326, 0x0329, 0x032E, 0x0330, 0x0331].map(c => String.fromCharCode(c))]
+// const marks = [...charRange(0x0300, 0x0310), ...[0x0316, 0x0317, 0x0320, 0x0323, 0x0324, 0x0325, 0x0326, 0x0329, 0x032E, 0x0330, 0x0331].map(c => String.fromCharCode(c))]
+const marks = [...charRange(0x0300, 0x0304), ...[0x0307,0x0308,0x030c,0x0310, 0x0323].map(c => String.fromCharCode(c))]
 const chars = [...charRange(0x0041, 0x005A), ...charRange(0x0061, 0x007A), ...charRange(0x0410, 0x044F)]
 
 table.innerHTML = `
