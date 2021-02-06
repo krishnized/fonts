@@ -1,0 +1,54 @@
+@named_comb = [acutecomb gravecomb tildecomb hookabovecomb uni030F uni0302 uni030C];
+@comma_comb = [uni0312 uni0313 uni0314 uni0315];
+@top_comb_left = [uni030D uni030E uni0310];
+@top_comb = [uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni0311 uni031A uni031B uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0350 uni0351 uni0352 uni0357 uni0358 uni035B uni035D uni035E uni0360 uni0361];
+@bottom_comb = [uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353 uni0354 uni0355 uni0356 uni0359 uni035A uni035C uni035F uni0362];
+@all_top_comb = [@named_comb @top_comb @comma_comb @top_comb_left];
+@all_bottom_comb = [@bottom_comb dotbelowcomb];
+
+# default mark shift (covers main symbols)
+lookup default {
+  pos @named_comb <-60 0 0 0>;
+  pos dotbelowcomb <-80 0 0 0>;
+  pos @top_comb <-640 0 0 0>;
+  pos @top_comb_left <-640 0 0 0>;
+  pos @comma_comb <-600 280 0 0>;
+  pos @bottom_comb <-660 0 0 0>;
+} default;
+
+lookup marks {
+  # tops caps
+  pos [A C E F G K P S T U V X Y Z uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni0420 uni0421 uni0422 uni0423 uni0425 uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_top_comb' <0 365 0 0>;
+  pos [f] @all_top_comb' <500 365 0 0>;
+  pos [I J d l t] @all_top_comb' <250 365 0 0>;
+  pos [B D H L N Q O R h uni0410 uni041E uni041F uni0424 uni0427 uni042A uni042C uni0426 uni0418 uni0419 uni041D] @all_top_comb' <-150 365 0 0>;
+  pos [M W b k uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_top_comb' <-350 365 0 0>;
+  pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_top_comb' <-350 0 0 0>;
+  # pos [j l f] @all_top_comb' <365 365 0 0>;
+  # pos [i dotlessi iota] @all_top_comb' <300 0 0 0>;
+
+  # bottoms
+  # →
+  # pos [f I i uni0440 uni0441] @all_bottom_comb' <50 0 0 0>;
+  # pos [I e s uni0440 uni0441 uni0427] @all_bottom_comb' <100 0 0 0>;
+  # pos [c i t f l] @all_bottom_comb' <200 0 0 0>;
+  # ←
+  # pos [E K S Z u x uni0412] @all_bottom_comb' <-50 0 0 0>;
+  # pos [G Y uni0414 uni0422] @all_bottom_comb' <-100 0 0 0>;
+  pos [A F H N O P U X V uni0413 uni041E uni041F uni0420 uni0423 uni0425 uni042D uni042F] @all_bottom_comb' <-150 0 0 0>;
+  # pos [w m uni0410 uni0418 uni0419 uni041B uni041D uni0424 uni0426 uni0436] @all_bottom_comb' <-300 0 0 0>;
+  # pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_bottom_comb' <-500 0 0 0>;
+  # pos [M W] @all_bottom_comb' <-1000 0 0 0>;
+  # ↓
+  # pos [J Q j g p q y] @all_bottom_comb' <0 -500 0 0>;
+
+  # pos [Q J j g f y] @all_bottom_comb' <0 -500 0 0>;
+  # pos [F D H N P uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] @all_bottom_comb' <-200 0 0 0>;
+  # pos [I c e i l p t uni0435 uni0437 uni0440 uni0441 uni0443 uni0444] @all_bottom_comb' <200 0 0 0>;
+  # pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_bottom_comb' <-300 0 0 0>;
+} marks;
+
+feature mark {
+  lookup default;
+  lookup marks;
+} mark;

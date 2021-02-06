@@ -11,12 +11,16 @@ See [demo](https://krishnized.com/fonts).
 
 ## Usage
 
-#### Option 1.
-
 Download font file and use font directly as replacement to original font:
 
 ```html
 <style>
+  @font-face {
+    font-family: 'Noto Serif';
+    font-weight: bold;
+    font-display: swap;
+    src: url(./NotoSerif-Bold.otf);
+  }
   @font-face {
     font-family: 'Noto Serif';
     font-style: italic;
@@ -25,7 +29,7 @@ Download font file and use font directly as replacement to original font:
   }
 </style>
 ```
-
+<!--
 #### Option 2 (cyrillic combinations only).
 
 Include combinations-only font file to extend original font in font stack:
@@ -43,7 +47,7 @@ Include combinations-only font file to extend original font in font stack:
     font-family: 'VedabaseIO Noto Serif Italic', 'Noto Serif', serif;
   }
 </style>
-```
+``` -->
 
 ## Disclaimer
 
