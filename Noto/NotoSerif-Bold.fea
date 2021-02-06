@@ -18,34 +18,35 @@ lookup default {
 
 lookup marks {
   # tops caps
-  pos [A C E F G K P S T U V X Y Z uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni0420 uni0421 uni0422 uni0423 uni0425 uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_top_comb' <0 365 0 0>;
+  pos [A C E F G K P S T U V X Y Z b k uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni0420 uni0421 uni0422 uni0423 uni0425 uni042D uni042F uni0431 uni0439] @all_top_comb' <0 365 0 0>;
   pos [f] @all_top_comb' <500 365 0 0>;
   pos [I J d l t] @all_top_comb' <250 365 0 0>;
-  pos [B D H L N Q O R h uni0410 uni041E uni041F uni0424 uni0427 uni042A uni042C uni0426 uni0418 uni0419 uni041D] @all_top_comb' <-150 365 0 0>;
-  pos [M W b k uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_top_comb' <-350 365 0 0>;
-  pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_top_comb' <-350 0 0 0>;
-  # pos [j l f] @all_top_comb' <365 365 0 0>;
-  # pos [i dotlessi iota] @all_top_comb' <300 0 0 0>;
+  pos [B D H L N Q O R h uni0410 uni041E uni041F uni0424 uni0427 uni042A uni042C uni0426 uni0418 uni0419 uni041D ] @all_top_comb' <-150 365 0 0>;
+  pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E ] @all_top_comb' <-350 365 0 0>;
+  pos [ uni0444 ] @all_top_comb' <-200 365 0 0>;
+
+  # tops caps after bottoms
+  pos [A C E F G K P S T U V X Y Z b k uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni0420 uni0421 uni0422 uni0423 uni0425 uni042D uni042F uni0431 uni0439] @all_bottom_comb @all_top_comb' <0 365 0 0>;
+  pos [f] @all_bottom_comb @all_top_comb' <500 365 0 0>;
+  pos [I J d l t] @all_bottom_comb @all_top_comb' <250 365 0 0>;
+  pos [B D H L N Q O R h uni0410 uni041E uni041F uni0424 uni0427 uni042A uni042C uni0426 uni0418 uni0419 uni041D ] @all_bottom_comb @all_top_comb' <-150 365 0 0>;
+  pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E ] @all_bottom_comb @all_top_comb' <-350 365 0 0>;
+  pos [ uni0444 ] @all_top_comb' <-200 365 0 0>;
+
+  # tops
+  pos [m w uni0436 uni043C uni0448 uni0449 uni044B uni044E ] @all_top_comb' <-250 0 0 0>;
+  pos [c r s z uni0437] @all_top_comb' <150 0 0 0>;
+  pos [i j dotlessi iota uni0441] @all_top_comb' <200 0 0 0>;
+  pos [uni043D uni043F] @all_top_comb' <-50 0 0 0>;
 
   # bottoms
-  # →
-  # pos [f I i uni0440 uni0441] @all_bottom_comb' <50 0 0 0>;
-  # pos [I e s uni0440 uni0441 uni0427] @all_bottom_comb' <100 0 0 0>;
-  # pos [c i t f l] @all_bottom_comb' <200 0 0 0>;
-  # ←
-  # pos [E K S Z u x uni0412] @all_bottom_comb' <-50 0 0 0>;
-  # pos [G Y uni0414 uni0422] @all_bottom_comb' <-100 0 0 0>;
-  pos [A F H N O P U X V uni0413 uni041E uni041F uni0420 uni0423 uni0425 uni042D uni042F] @all_bottom_comb' <-150 0 0 0>;
-  # pos [w m uni0410 uni0418 uni0419 uni041B uni041D uni0424 uni0426 uni0436] @all_bottom_comb' <-300 0 0 0>;
-  # pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_bottom_comb' <-500 0 0 0>;
-  # pos [M W] @all_bottom_comb' <-1000 0 0 0>;
-  # ↓
-  # pos [J Q j g p q y] @all_bottom_comb' <0 -500 0 0>;
+  pos [A F H N O P U X V uni0410 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0423 uni0424 uni0425 uni0426 uni042D uni042F] @all_bottom_comb' <-100 0 0 0>;
+  pos [m w uni0436 uni043C uni0448 uni0449 uni044B uni044E] @all_bottom_comb' <-300 0 0 0>;
+  pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_bottom_comb' <-375 0 0 0>;
+  pos [c e uni0442 uni0435 uni0437 uni0441] @all_bottom_comb' <108 0 0 0>;
+  pos [f i l t uni0440  uni0443 uni0444] @all_bottom_comb' <300 0 0 0>;
+  pos [J Q j g p q y] @all_bottom_comb' <0 -500 0 0>;
 
-  # pos [Q J j g f y] @all_bottom_comb' <0 -500 0 0>;
-  # pos [F D H N P uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] @all_bottom_comb' <-200 0 0 0>;
-  # pos [I c e i l p t uni0435 uni0437 uni0440 uni0441 uni0443 uni0444] @all_bottom_comb' <200 0 0 0>;
-  # pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_bottom_comb' <-300 0 0 0>;
 } marks;
 
 feature mark {

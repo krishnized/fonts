@@ -5,7 +5,6 @@
 <title>Cyrillic combinations fonts / Шрифты с кириллическими комбинациями</title>
 <link rel="stylesheet" href="https://unpkg.com/modern-normalize@1.0.0/modern-normalize.css"/>
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<!-- <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet"> -->
 
 <style>
   @font-face {
@@ -107,9 +106,42 @@
     max-width: 108ch;
     margin: 0 auto;
     font-size: 1.08rem;
+    border-collapse: collapse;
   }
   #table tbody {
     margin: 0 auto;
+  }
+  #table tr th {
+    border-right: .5rem solid transparent;
+  }
+  #table tr:first-child th {
+    border-bottom: .5rem solid transparent;
+    border-right: none;
+  }
+  #table tr:first-child th:first-child {
+    border-right: .5rem solid transparent;
+  }
+  #table {
+    overflow: hidden;
+  }
+
+  #table tr:hover {
+    background-color: #eaecef;
+  }
+
+  #table td, #table th {
+    position: relative;
+  }
+  #table td:hover::after,
+  #table th:hover::after {
+    content: "";
+    position: absolute;
+    background-color: #eaecef;
+    left: 0;
+    top: -5000px;
+    height: 10000px;
+    width: 100%;
+    z-index: -1;
   }
 
   .default {
