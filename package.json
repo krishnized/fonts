@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/_src/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
-    "build-noto-r": "makeotf -ff ./Noto/NotoSerif-Regular.fea -nshw -r -f ./Noto/_src/NotoSerif-Regular.otf -o ./Noto/NotoSerif-Regular.otf",
-    "build-noto-b": "makeotf -ff ./Noto/NotoSerif-Bold.fea -nshw -r -f ./Noto/_src/NotoSerif-Bold.otf -o ./Noto/NotoSerif-Bold.otf",
-    "build-noto-i": "makeotf -ff ./Noto/NotoSerif-Italic.fea -nshw -r -f ./Noto/_src/NotoSerif-Italic.otf -o ./Noto/NotoSerif-Italic.otf",
+    "build-lora": "makeotf -ff ./Lora/diacritics.fea -r -f ./Lora/_src/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
+
+    "build-noto-r": "makeotf -ff ./Noto/NotoSerif-Regular.fea -nshw -r -f ./Noto/_src/NotoSerif-Regular.ttf -o ./Noto/NotoSerif-Regular.otf",
+    "build-noto-b": "makeotf -ff ./Noto/NotoSerif-Bold.fea -nshw -r -f ./Noto/_src/NotoSerif-Bold.ttf -o ./Noto/NotoSerif-Bold.otf",
+    "build-noto-i": "makeotf -ff ./Noto/NotoSerif-Italic.fea -nshw -r -f ./Noto/_src/NotoSerif-Italic.ttf -o ./Noto/NotoSerif-Italic.otf",
+
     "subset-noto-r": "pyftsubset ./Noto/NotoSerif-Regular.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Regular.woff2",
     "subset-noto-b": "pyftsubset ./Noto/NotoSerif-Bold.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Bold.woff2",
     "subset-noto-i": "pyftsubset ./Noto/NotoSerif-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Italic.woff2"
