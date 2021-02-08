@@ -6,13 +6,13 @@
 @all_bottom_comb = [@bottom_comb dotbelowcomb];
 
 # default mark shift (covers main symbols)
-# lookup default {
-#   pos @named_comb <-60 0 0 0>;
-#   pos dotbelowcomb <20 0 0 0>;
-#   pos @top_comb <-640 0 0 0>;
-#   pos @comma_comb <-600 280 0 0>;
-#   pos @bottom_comb <-560 0 0 0>;
-# } default;
+lookup default {
+  pos @named_comb <-60 0 0 0>;
+  pos dotbelowcomb <20 0 0 0>;
+  pos @top_comb <-640 0 0 0>;
+  pos @comma_comb <-600 280 0 0>;
+  pos @bottom_comb <-560 0 0 0>;
+} default;
 
 lookup marks {
   markClass @named_comb <anchor -450 0> @top_marks;
@@ -65,28 +65,7 @@ lookup marks {
 } marks;
 
 feature mark {
-  # lookup default;
+  lookup default;
   lookup marks;
 } mark;
 
-
-# lookup marks {
-  # markClass [acutecomb gravecomb tildecomb hookabovecomb uni030F] <anchor 0 0> @named_comb;
-  # tops
-  # pos [A B C D E F G H K L N O P Q R S T U V X Y Z b d h k t uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni041E uni0420 uni0421 uni0422 uni0423 uni0425 uni042A uni042C uni042D uni042F uni0431 uni0434 uni0439 uni0444] @all_top_comb' <0 365 0 0>;
-  # pos base [A B C D E F G H K L N O P Q R S T U V X Y Z b d h k t uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0417 uni041A uni041B uni041E uni0420 uni0421 uni0422 uni0423 uni0425 uni042A uni042C uni042D uni042F uni0431 uni0434 uni0439 uni0444] <anchor 1000 365 0 0> mark @named_comb;
-  # pos [I J] @all_top_comb' <300 365 0 0>;
-  # pos [uni0418 uni0419 uni041D uni041F uni0424 uni0426 uni0427] @all_top_comb' <-108 365 0 0>;
-  # pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_top_comb' <-300 365 0 0>;
-  # pos [m uni0436 uni0442 uni0448 uni0449 uni044B uni044E] @all_top_comb' <-300 0 0 0>;
-  # pos [w uni043C] @all_top_comb' <-200 0 0 0>;
-  # pos [j l f] @all_top_comb' <365 365 0 0>;
-  # pos [i dotlessi iota] @all_top_comb' <300 0 0 0>;
-
-  # bottoms
-  # pos [M W uni0416 uni041C uni0428 uni0429 uni042B uni042E] @all_bottom_comb' <-500 0 0 0>;
-  # pos [Q J j g f y] @all_bottom_comb' <0 -500 0 0>;
-  # pos [F D H N P uni0412 uni0413 uni0414 uni0418 uni0419 uni041B uni041D uni041E uni041F uni0420 uni0424 uni0425 uni0426 uni042D uni042F] @all_bottom_comb' <-200 0 0 0>;
-  # pos [I c e i l p t uni0435 uni0437 uni0440 uni0441 uni0443 uni0444] @all_bottom_comb' <200 0 0 0>;
-  # pos [m w uni0436 uni043C uni0442 uni0448 uni0449 uni044B uni044E] @all_bottom_comb' <-300 0 0 0>;
-# } marks;
