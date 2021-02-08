@@ -16,7 +16,7 @@ lookup default {
 
 lookup marks {
   markClass @named_comb <anchor -450 0> @top_marks;
-  markClass @top_comb <anchor 165 0> @top_marks;
+  markClass [@top_comb @comma_comb] <anchor 165 0> @top_marks;
   markClass @bottom_comb <anchor -175 0> @bottom_marks;
   markClass dotbelowcomb <anchor -750 0> @bottom_marks;
 
