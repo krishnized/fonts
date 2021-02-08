@@ -1,11 +1,12 @@
 lookup diacritics {
-  markClass [gravecomb acutecomb dotaccent uni0307] <anchor 100 500> @TOP_MARKS;
+  markClass [gravecomb acutecomb dotaccent uni0307 uni030A uni030B uni030C uni031B] <anchor 100 500> @TOP_MARKS;
   markClass [gravecomb.case acutecomb.case] <anchor 100 700> @TOP_MARKS;
   markClass [uni0308 uni0304 uni0302 uni0306 brevecombcy] <anchor 180 500> @TOP_MARKS;
   markClass [tildecomb] <anchor 200 500> @TOP_MARKS;
   markClass [tildecomb.case] <anchor 240 700> @TOP_MARKS;
   # markClass [dieresis] <anchor 300 -10> @TOP_MARKS;
   markClass [dotbelowcomb uni0326 uni0327 uni0328 uni0335] <anchor 100 0> @BOTTOM_MARKS;
+
 
   # авгдежзиклнопстхчэя
   pos base [uni0430 uni0432 uni0433 uni0435 uni0437 uni0438 uni043A uni043B uni043D uni043E uni043F uni0441 uni0447 uni0446 uni044C uni044A uni0455 uni044D uni0454 uni044F h] <anchor 300 500> mark @TOP_MARKS <anchor 270 0> mark @BOTTOM_MARKS;

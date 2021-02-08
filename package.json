@@ -4,7 +4,7 @@
   "description": "Google-ish fonts with enhanced unicode combining chars support for cyrillics.",
   "main": "index.js",
   "scripts": {
-    "build-lora": "makeotf -ff ./Lora/diacritics.fea -r -f ./Lora/_src/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
+    "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/_src/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
 
     "build-noto-r": "makeotf -ff ./Noto/NotoSerif-Regular.fea -nshw -r -f ./Noto/_src/NotoSerif-Regular.ttf -o ./Noto/NotoSerif-Regular.otf",
     "build-noto-b": "makeotf -ff ./Noto/NotoSerif-Bold.fea -nshw -r -f ./Noto/_src/NotoSerif-Bold.ttf -o ./Noto/NotoSerif-Bold.otf",
