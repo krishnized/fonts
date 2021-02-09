@@ -187,8 +187,16 @@
 <option class="noto regular" value="noto regular">Noto Serif Regular</option>
 <option class="noto italic" value="noto italic">Noto Serif Italic</option>
 <option class="noto bold" value="noto bold">Noto Serif Bold</option>
-<option class="notosans italic" value="notosans italic" selected>Noto Sans Italic</option>
+<option class="notosans italic" value="notosans italic">Noto Sans Italic</option>
 </select>
+<script>
+  // persist font
+  let selected = localStorage.getItem('selected-font')
+  if (selected) select.querySelector(`[value="${selected}"]`)?.setAttribute('selected', true)
+  select.addEventListener('change', e => {
+    localStorage.setItem('selected-font', select.value)
+  })
+</script>
 </h2>
 
 <section id="preview" class="">
