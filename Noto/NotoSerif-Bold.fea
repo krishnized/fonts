@@ -45,7 +45,7 @@ lookup marks {
   pos base [uni043C uni044B] <anchor 820 0> mark @top_marks <anchor 820 0> mark @bottom_marks;
   pos base [uni0438 uni043D uni043F uni0446 uni0447] <anchor 690 0> mark @top_marks <anchor 690 0> mark @bottom_marks;
   pos base [n o u x uni043A uni043E uni044A uni0445] <anchor 620 0> mark @top_marks <anchor 620 0> mark @bottom_marks;
-  pos base [a c e v z uni0430 uni0432 uni0435 uni0441 uni0442 uni044F] <anchor 580 0> mark @top_marks <anchor 580 0> mark @bottom_marks;
+  pos base [a c e v z uni0430 uni0432 uni0435 uni0441 uni0442 uni044F] <anchor 600 0> mark @top_marks <anchor 600 0> mark @bottom_marks;
   pos base [s uni0433 uni0437 uni044D uni044C] <anchor 450 0> mark @top_marks <anchor 450 0> mark @bottom_marks;
   pos base [i dotlessi iota] <anchor 300 0> mark @top_marks <anchor 320 0> mark @bottom_marks;
 
@@ -66,14 +66,15 @@ lookup marks {
   pos base [j] <anchor 320 0> mark @top_marks <anchor 240 -500> mark @bottom_marks;
 } marks;
 
-# lookup subs {
-#   # substitute i uni0302 by icircumflex;
-#   substitute i uni0307 by i;
-#   substitute c uni0307 by cdotaccent;
-# } subs;
+lookup subs {
+  # sub i uni0302 by icircumflex;
+  # sub i uni0307 by i;
+  # sub j uni030C by uni01F0;
+  sub c uni0307 by cdotaccent;
+} subs;
 
 feature mark {
-  # lookup subs;
+  lookup subs;
   lookup marks;
   lookup default;
 } mark;

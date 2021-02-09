@@ -16,20 +16,26 @@
   @font-face {
     font-family: 'Noto';
     font-display: swap;
-    src: url(./Noto/NotoSerif-Regular.woff2);
+    src: url(./Noto/NotoSerif-Regular.otf);
   }
   @font-face {
     font-family: 'Noto';
     font-style: italic;
     font-weight: normal;
     font-display: swap;
-    src: url(./Noto/NotoSerif-Italic.woff2);
+    src: url(./Noto/NotoSerif-Italic.otf);
   }
   @font-face {
     font-family: 'Noto';
     font-weight: bold;
     font-display: swap;
-    src: url(./Noto/NotoSerif-Bold.woff2);
+    src: url(./Noto/NotoSerif-Bold.otf);
+  }
+  @font-face {
+    font-family: 'NotoSans';
+    font-style: italic;
+    font-display: swap;
+    src: url(./Noto/NotoSans-Italic.otf);
   }
 
   /* flex font size */
@@ -155,6 +161,9 @@
   .noto {
     font-family: 'Noto';
   }
+  .notosans {
+    font-family: 'NotoSans';
+  }
   .italic {
     font-style: italic;
   }
@@ -177,7 +186,8 @@
 <option class="lora italic" value="lora italic">Lora Italic</option>
 <option class="noto regular" value="noto regular">Noto Serif Regular</option>
 <option class="noto italic" value="noto italic">Noto Serif Italic</option>
-<option class="noto bold" value="noto bold" selected>Noto Serif Bold</option>
+<option class="noto bold" value="noto bold">Noto Serif Bold</option>
+<option class="notosans italic" value="notosans italic" selected>Noto Sans Italic</option>
 </select>
 </h2>
 

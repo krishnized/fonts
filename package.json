@@ -6,13 +6,16 @@
   "scripts": {
     "build-lora": "makeotf -ff ./Lora/diacritics.fea -f ./Lora/_src/Lora-Italic.ttf -o ./Lora/Lora-Italic.otf",
 
-    "build-noto-r": "makeotf -ff ./Noto/NotoSerif-Regular.fea -nshw -r -f ./Noto/_src/NotoSerif-Regular.ttf -o ./Noto/NotoSerif-Regular.otf",
-    "build-noto-b": "makeotf -ff ./Noto/NotoSerif-Bold.fea -nshw -r -f ./Noto/_src/NotoSerif-Bold.ttf -o ./Noto/NotoSerif-Bold.otf",
-    "build-noto-i": "makeotf -ff ./Noto/NotoSerif-Italic.fea -nshw -r -f ./Noto/_src/NotoSerif-Italic.ttf -o ./Noto/NotoSerif-Italic.otf",
+    "build-noto-r": "makeotf -ff ./Noto/NotoSerif-Regular.fea -gf ./Noto/NotoSerif.goadb -nshw -r -f ./Noto/_src/NotoSerif-Regular.ttf -o ./Noto/NotoSerif-Regular.otf",
+    "build-noto-b": "makeotf -ff ./Noto/NotoSerif-Bold.fea -gf ./Noto/NotoSerif.goadb -nshw -r -f ./Noto/_src/NotoSerif-Bold.ttf -o ./Noto/NotoSerif-Bold.otf",
+    "build-noto-i": "makeotf -ff ./Noto/NotoSerif-Italic.fea -gf ./Noto/NotoSerif.goadb -nshw -r -f ./Noto/_src/NotoSerif-Italic.ttf -o ./Noto/NotoSerif-Italic.otf",
+
+    "build-notosans-i": "makeotf -ff ./Noto/NotoSans-Italic.fea -gf ./Noto/NotoSans.goadb -nshw -r -f ./Noto/_src/NotoSans-Italic.ttf -o ./Noto/NotoSans-Italic.otf",
 
     "subset-noto-r": "pyftsubset ./Noto/NotoSerif-Regular.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Regular.woff2",
     "subset-noto-b": "pyftsubset ./Noto/NotoSerif-Bold.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Bold.woff2",
-    "subset-noto-i": "pyftsubset ./Noto/NotoSerif-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Italic.woff2"
+    "subset-noto-i": "pyftsubset ./Noto/NotoSerif-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Italic.woff2",
+    "subset-noto-si": "pyftsubset ./Noto/NotoSans-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSans-Italic.woff2"
   },
   "repository": {
     "type": "git",
