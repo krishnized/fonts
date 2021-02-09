@@ -15,7 +15,7 @@
     "subset-noto-r": "pyftsubset ./Noto/NotoSerif-Regular.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Regular.woff2",
     "subset-noto-b": "pyftsubset ./Noto/NotoSerif-Bold.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Bold.woff2",
     "subset-noto-i": "pyftsubset ./Noto/NotoSerif-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSerif-Italic.woff2",
-    "subset-noto-si": "pyftsubset ./Noto/NotoSans-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSans-Italic.woff2"
+    "subset-notosans-i": "pyftsubset ./Noto/NotoSans-Italic.otf --unicodes-file=./unicodes --ignore-missing-unicodes --flavor=woff2 --with-zopfli --output-file=./Noto/NotoSans-Italic.woff2"
   },
   "repository": {
     "type": "git",
