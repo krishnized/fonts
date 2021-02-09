@@ -65,7 +65,7 @@ lookup marks {
   pos base [g y uni0443] <anchor 650 0> mark @top_marks <anchor 320 -500> mark @bottom_marks;
   pos base [uni0444] <anchor 920 365> mark @top_marks <anchor 420 -500> mark @bottom_marks;
   pos base [q] <anchor 715 0> mark @top_marks <anchor 680 -500> mark @bottom_marks;
-  pos base [p uni0440] <anchor 725 0> mark @top_marks <anchor 108 -500> mark @bottom_marks;
+  pos base [p uni0440] <anchor 725 0> mark @top_marks <anchor 560 -130> mark @bottom_marks;
   pos base [j] <anchor 1860 0> mark @top_marks <anchor -108 -500> mark @bottom_marks;
 } marks;
 
