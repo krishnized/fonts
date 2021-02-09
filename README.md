@@ -51,7 +51,7 @@ Include combinations-only font file to extend original font in font stack:
 
 ## Disclaimer
 
-This repo is a fix for [google/fonts#2974](https://github.com/google/fonts/issues/2974) and alike.
+This repo is a fix for [google/fonts#2974](https://github.com/google/fonts/issues/2974), [noto-fonts/#1999](https://github.com/googlefonts/noto-fonts/issues/1999) and alike.
 Once the listed fonts get unicode cyrillic combinations support, it is recommended to switch back to original version.
 
 
