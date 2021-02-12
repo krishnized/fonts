@@ -29,7 +29,7 @@ lookup marks {
   pos base [O uni041E] <anchor 760 365> mark @top_marks <anchor 760 0> mark @bottom_marks;
   pos base [B E T X Y Z uni0411 uni0412 uni0415 uni0422 uni042A] <anchor 680 365> mark @top_marks <anchor 680 0> mark @bottom_marks;
   pos base [R S uni0417 uni042D] <anchor 570 365> mark @top_marks <anchor 570 0> mark @bottom_marks;
-  pos base [F P uni0413 uni0420] <anchor 630 365> mark @top_marks <anchor 370 0> mark @bottom_marks;
+  pos base [F P uni0413 uni0420] <anchor 630 365> mark @top_marks <anchor 420 0> mark @bottom_marks;
   pos base [I] <anchor 370 365> mark @top_marks <anchor 370 0> mark @bottom_marks;
 
   # # caps exception
@@ -53,7 +53,7 @@ lookup marks {
   pos base [uni043B uni0434] <anchor 720 0> mark @top_marks <anchor 640 0> mark @bottom_marks;
   pos base [uni0439] <anchor 690 365> mark @top_marks <anchor 690 0> mark @bottom_marks;
   pos base [r] <anchor 550 0> mark @top_marks <anchor 350 0> mark @bottom_marks;
-  pos base [b h k] <anchor 250 365> mark @top_marks <anchor 650 0> mark @bottom_marks;
+  pos base [b h k] <anchor 550 365> mark @top_marks <anchor 650 0> mark @bottom_marks;
   pos base [f] <anchor 550 365> mark @top_marks <anchor 340 0> mark @bottom_marks;
   pos base [t] <anchor 330 265> mark @top_marks <anchor 400 0> mark @bottom_marks;
   pos base [l] <anchor 320 365> mark @top_marks <anchor 320 0> mark @bottom_marks;
@@ -62,7 +62,7 @@ lookup marks {
   pos base [g y uni0443] <anchor 550 0> mark @top_marks <anchor 550 -500> mark @bottom_marks;
   pos base [uni0444] <anchor 750 365> mark @top_marks <anchor 840 -500> mark @bottom_marks;
   pos base [q] <anchor 570 0> mark @top_marks <anchor 930 -500> mark @bottom_marks;
-  pos base [p uni0440] <anchor 570 0> mark @top_marks <anchor 960 -80> mark @bottom_marks;
+  pos base [p uni0440] <anchor 570 0> mark @top_marks <anchor 960 0> mark @bottom_marks;
   pos base [j] <anchor 320 0> mark @top_marks <anchor 240 -500> mark @bottom_marks;
 } marks;
 

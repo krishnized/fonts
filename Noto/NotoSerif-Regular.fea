@@ -23,7 +23,7 @@ lookup marks {
 
   # caps symmetric
   pos base [W uni0428 uni0429] <anchor 1100 365> mark @top_marks <anchor 1100 0> mark @bottom_marks;
-  pos base [M uni0416 uni041C uni042B uni042E] <anchor 975 365> mark @top_marks <anchor 975 0> mark @bottom_marks;
+  pos base [M uni0416 uni041C uni042B uni042E] <anchor 975 365> mark @top_marks <anchor 940 0> mark @bottom_marks;
   pos base [H uni0418 uni0419 uni041D uni041F] <anchor 820 365> mark @top_marks <anchor 820 0> mark @bottom_marks;
   pos base [uni0424 uni0426] <anchor 785 365> mark @top_marks <anchor 785 0> mark @bottom_marks;
   pos base [A C D G K N U V uni0410 uni041A uni0421 uni0423 uni0425 uni042F] <anchor 720 365> mark @top_marks <anchor 700 0> mark @bottom_marks;
@@ -63,7 +63,7 @@ lookup marks {
   pos base [g y uni0443] <anchor 550 0> mark @top_marks <anchor 550 -500> mark @bottom_marks;
   pos base [uni0444] <anchor 680 365> mark @top_marks <anchor 730 -500> mark @bottom_marks;
   pos base [q] <anchor 570 0> mark @top_marks <anchor 930 -500> mark @bottom_marks;
-  pos base [p uni0440] <anchor 570 0> mark @top_marks <anchor 870 -108> mark @bottom_marks;
+  pos base [p uni0440] <anchor 570 0> mark @top_marks <anchor 870 0> mark @bottom_marks;
   pos base [j] <anchor 320 0> mark @top_marks <anchor 240 -500> mark @bottom_marks;
 
 } marks;
