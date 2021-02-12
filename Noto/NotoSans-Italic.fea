@@ -30,7 +30,7 @@ lookup marks {
   pos base [C N U uni0421] <anchor 920 365> mark @top_marks <anchor 500 0> mark @bottom_marks;
   pos base [A D G K V uni0410 uni041A uni0423 uni0425 uni042F] <anchor 800 365> mark @top_marks <anchor 460 0> mark @bottom_marks;
   pos base [O uni041E] <anchor 940 365> mark @top_marks <anchor 640 0> mark @bottom_marks;
-  pos base [B E T X Y Z uni0411 uni0412 uni0415 uni0422 uni042A] <anchor 750 365> mark @top_marks <anchor 400 0> mark @bottom_marks;
+  pos base [B E T X Y Z uni0411 uni0412 uni0415 uni0422 uni042A] <anchor 750 365> mark @top_marks <anchor 380 0> mark @bottom_marks;
   pos base [R S uni0417 uni042D] <anchor 750 365> mark @top_marks <anchor 400 0> mark @bottom_marks;
   pos base [F P uni0413 uni0420] <anchor 790 365> mark @top_marks <anchor 140 0> mark @bottom_marks;
   pos base [I] <anchor 575 365> mark @top_marks <anchor 160 0> mark @bottom_marks;
@@ -65,7 +65,7 @@ lookup marks {
   pos base [g y uni0443] <anchor 650 0> mark @top_marks <anchor 320 -500> mark @bottom_marks;
   pos base [uni0444] <anchor 920 365> mark @top_marks <anchor 420 -500> mark @bottom_marks;
   pos base [q] <anchor 715 0> mark @top_marks <anchor 680 -500> mark @bottom_marks;
-  pos base [p uni0440] <anchor 725 0> mark @top_marks <anchor 560 -130> mark @bottom_marks;
+  pos base [p uni0440] <anchor 725 0> mark @top_marks <anchor 560 0> mark @bottom_marks;
   pos base [j] <anchor 1860 0> mark @top_marks <anchor -108 -500> mark @bottom_marks;
 } marks;
 

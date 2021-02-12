@@ -37,6 +37,17 @@
     font-display: swap;
     src: url(./Noto/NotoSans-Italic.otf);
   }
+  @font-face {
+    font-family: 'NotoSans';
+    font-weight: bold;
+    font-display: swap;
+    src: url(./Noto/NotoSans-Bold.otf);
+  }
+  @font-face {
+    font-family: 'NotoSans';
+    font-display: swap;
+    src: url(./Noto/NotoSans-Reguler.otf);
+  }
 
   /* flex font size */
   html {font-size: 100%;}
@@ -162,7 +173,7 @@
     font-family: 'Noto';
   }
   .notosans {
-    font-family: 'NotoSans';
+    font-family: 'NotoSans', sans-serif;
   }
   .italic {
     font-style: italic;
@@ -187,7 +198,9 @@
 <option class="noto regular" value="noto regular">Noto Serif Regular</option>
 <option class="noto italic" value="noto italic">Noto Serif Italic</option>
 <option class="noto bold" value="noto bold">Noto Serif Bold</option>
+<option class="notosans regular" value="notosans regular">Noto Sans Regular</option>
 <option class="notosans italic" value="notosans italic">Noto Sans Italic</option>
+<option class="notosans bold" value="notosans bold">Noto Sans Bold</option>
 </select>
 <script>
   // persist font
