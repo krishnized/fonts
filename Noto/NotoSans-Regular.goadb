@@ -1,0 +1,3034 @@
+.notdef .notdef
+g1  g1
+g2  g2
+g3  g3
+g4  g4
+g5  g5
+dollar  dollar  u0024
+ampersand ampersand u0026
+g8  g8
+g9  g9
+g10 g10
+g11 g11
+g12 g12
+g13 g13
+g14 g14
+at  at  u0040
+A A u0041
+B B u0042
+C C u0043
+D D u0044
+E E u0045
+F F u0046
+G G u0047
+H H u0048
+I I u0049
+J J u004A
+K K u004B
+L L u004C
+M M u004D
+N N u004E
+O O u004F
+P P u0050
+Q Q u0051
+R R u0052
+S S u0053
+T T u0054
+U U u0055
+V V u0056
+W W u0057
+X X u0058
+Y Y u0059
+Z Z u005A
+g42 g42
+grave grave u0060
+a a u0061
+b b u0062
+c c u0063
+d d u0064
+e e u0065
+f f u0066
+g g u0067
+h h u0068
+i i u0069
+j j u006A
+k k u006B
+l l u006C
+m m u006D
+n n u006E
+o o u006F
+p p u0070
+q q u0071
+r r u0072
+s s u0073
+t t u0074
+u u u0075
+v v u0076
+w w u0077
+x x u0078
+y y u0079
+z z u007A
+g70 g70
+exclamdown  exclamdown  u00A1
+cent  cent  u00A2
+sterling  sterling  u00A3
+currency  currency  u00A4
+yen yen u00A5
+brokenbar brokenbar u00A6
+section section u00A7
+dieresis  dieresis  u00A8
+copyright copyright u00A9
+ordfeminine ordfeminine u00AA
+guillemotleft guillemotleft u00AB
+logicalnot  logicalnot  u00AC
+uni00AD uni00AD u00AD
+registered  registered  u00AE
+g85 g85
+degree  degree  u00B0
+plusminus plusminus u00B1
+twosuperior twosuperior u00B2
+threesuperior threesuperior u00B3
+acute acute u00B4
+mu  mu  u00B5
+paragraph paragraph u00B6
+periodcentered  periodcentered  u00B7
+cedilla cedilla u00B8
+onesuperior onesuperior u00B9
+ordmasculine  ordmasculine  u00BA
+guillemotright  guillemotright  u00BB
+onequarter  onequarter  u00BC
+onehalf onehalf u00BD
+threequarters threequarters u00BE
+questiondown  questiondown  u00BF
+Agrave  Agrave  u00C0
+Aacute  Aacute  u00C1
+Acircumflex Acircumflex u00C2
+Atilde  Atilde  u00C3
+Adieresis Adieresis u00C4
+Aring Aring u00C5
+AE  AE  u00C6
+Ccedilla  Ccedilla  u00C7
+Egrave  Egrave  u00C8
+Eacute  Eacute  u00C9
+Ecircumflex Ecircumflex u00CA
+Edieresis Edieresis u00CB
+Igrave  Igrave  u00CC
+Iacute  Iacute  u00CD
+Icircumflex Icircumflex u00CE
+Idieresis Idieresis u00CF
+Eth Eth u00D0
+Ntilde  Ntilde  u00D1
+Ograve  Ograve  u00D2
+Oacute  Oacute  u00D3
+Ocircumflex Ocircumflex u00D4
+Otilde  Otilde  u00D5
+Odieresis Odieresis u00D6
+Oslash  Oslash  u00D8
+Ugrave  Ugrave  u00D9
+Uacute  Uacute  u00DA
+Ucircumflex Ucircumflex u00DB
+Udieresis Udieresis u00DC
+Yacute  Yacute  u00DD
+Thorn Thorn u00DE
+germandbls  germandbls  u00DF
+agrave  agrave  u00E0
+aacute  aacute  u00E1
+acircumflex acircumflex u00E2
+atilde  atilde  u00E3
+adieresis adieresis u00E4
+aring aring u00E5
+ae  ae  u00E6
+ccedilla  ccedilla  u00E7
+egrave  egrave  u00E8
+eacute  eacute  u00E9
+ecircumflex ecircumflex u00EA
+edieresis edieresis u00EB
+igrave  igrave  u00EC
+iacute  iacute  u00ED
+icircumflex icircumflex u00EE
+idieresis idieresis u00EF
+eth eth u00F0
+ntilde  ntilde  u00F1
+ograve  ograve  u00F2
+oacute  oacute  u00F3
+ocircumflex ocircumflex u00F4
+otilde  otilde  u00F5
+odieresis odieresis u00F6
+oslash  oslash  u00F8
+ugrave  ugrave  u00F9
+uacute  uacute  u00FA
+ucircumflex ucircumflex u00FB
+udieresis udieresis u00FC
+yacute  yacute  u00FD
+thorn thorn u00FE
+ydieresis ydieresis u00FF
+Amacron Amacron u0100
+amacron amacron u0101
+Abreve  Abreve  u0102
+abreve  abreve  u0103
+Aogonek Aogonek u0104
+aogonek aogonek u0105
+Cacute  Cacute  u0106
+cacute  cacute  u0107
+Ccircumflex Ccircumflex u0108
+ccircumflex ccircumflex u0109
+Cdotaccent  Cdotaccent  u010A
+cdotaccent  cdotaccent  u010B
+Ccaron  Ccaron  u010C
+ccaron  ccaron  u010D
+Dcaron  Dcaron  u010E
+dcaron  dcaron  u010F
+Dcroat  Dcroat  u0110
+dcroat  dcroat  u0111
+Emacron Emacron u0112
+emacron emacron u0113
+Ebreve  Ebreve  u0114
+ebreve  ebreve  u0115
+Edotaccent  Edotaccent  u0116
+edotaccent  edotaccent  u0117
+Eogonek Eogonek u0118
+eogonek eogonek u0119
+Ecaron  Ecaron  u011A
+ecaron  ecaron  u011B
+Gcircumflex Gcircumflex u011C
+gcircumflex gcircumflex u011D
+Gbreve  Gbreve  u011E
+gbreve  gbreve  u011F
+Gdotaccent  Gdotaccent  u0120
+gdotaccent  gdotaccent  u0121
+Gcommaaccent  Gcommaaccent  u0122
+gcommaaccent  gcommaaccent  u0123
+Hcircumflex Hcircumflex u0124
+hcircumflex hcircumflex u0125
+Hbar  Hbar  u0126
+hbar  hbar  u0127
+Itilde  Itilde  u0128
+itilde  itilde  u0129
+Imacron Imacron u012A
+imacron imacron u012B
+Ibreve  Ibreve  u012C
+ibreve  ibreve  u012D
+Iogonek Iogonek u012E
+iogonek iogonek u012F
+Idotaccent  Idotaccent  u0130
+dotlessi  dotlessi  u0131
+IJ  IJ  u0132
+ij  ij  u0133
+Jcircumflex Jcircumflex u0134
+jcircumflex jcircumflex u0135
+Kcommaaccent  Kcommaaccent  u0136
+kcommaaccent  kcommaaccent  u0137
+kgreenlandic  kgreenlandic  u0138
+Lacute  Lacute  u0139
+lacute  lacute  u013A
+Lcommaaccent  Lcommaaccent  u013B
+lcommaaccent  lcommaaccent  u013C
+Lcaron  Lcaron  u013D
+lcaron  lcaron  u013E
+Ldot  Ldot  u013F
+ldot  ldot  u0140
+Lslash  Lslash  u0141
+lslash  lslash  u0142
+Nacute  Nacute  u0143
+nacute  nacute  u0144
+Ncommaaccent  Ncommaaccent  u0145
+ncommaaccent  ncommaaccent  u0146
+Ncaron  Ncaron  u0147
+ncaron  ncaron  u0148
+napostrophe napostrophe u0149
+Eng Eng u014A
+eng eng u014B
+Omacron Omacron u014C
+omacron omacron u014D
+Obreve  Obreve  u014E
+obreve  obreve  u014F
+Ohungarumlaut Ohungarumlaut u0150
+ohungarumlaut ohungarumlaut u0151
+OE  OE  u0152
+oe  oe  u0153
+Racute  Racute  u0154
+racute  racute  u0155
+Rcommaaccent  Rcommaaccent  u0156
+rcommaaccent  rcommaaccent  u0157
+Rcaron  Rcaron  u0158
+rcaron  rcaron  u0159
+Sacute  Sacute  u015A
+sacute  sacute  u015B
+Scircumflex Scircumflex u015C
+scircumflex scircumflex u015D
+Scedilla  Scedilla  u015E
+scedilla  scedilla  u015F
+Scaron  Scaron  u0160
+scaron  scaron  u0161
+uni021A uni021A u021A
+uni021B uni021B u021B
+Tcaron  Tcaron  u0164
+tcaron  tcaron  u0165
+Tbar  Tbar  u0166
+tbar  tbar  u0167
+Utilde  Utilde  u0168
+utilde  utilde  u0169
+Umacron Umacron u016A
+umacron umacron u016B
+Ubreve  Ubreve  u016C
+ubreve  ubreve  u016D
+Uring Uring u016E
+uring uring u016F
+Uhungarumlaut Uhungarumlaut u0170
+uhungarumlaut uhungarumlaut u0171
+Uogonek Uogonek u0172
+uogonek uogonek u0173
+Wcircumflex Wcircumflex u0174
+wcircumflex wcircumflex u0175
+Ycircumflex Ycircumflex u0176
+ycircumflex ycircumflex u0177
+Ydieresis Ydieresis u0178
+Zacute  Zacute  u0179
+zacute  zacute  u017A
+Zdotaccent  Zdotaccent  u017B
+zdotaccent  zdotaccent  u017C
+Zcaron  Zcaron  u017D
+zcaron  zcaron  u017E
+longs longs u017F
+florin  florin  u0192
+Aringacute  Aringacute  u01FA
+aringacute  aringacute  u01FB
+AEacute AEacute u01FC
+aeacute aeacute u01FD
+Oslashacute Oslashacute u01FE
+oslashacute oslashacute u01FF
+Scommaaccent  Scommaaccent  u0218
+scommaaccent  scommaaccent  u0219
+circumflex  circumflex  u02C6
+caron caron u02C7
+uni02C9 uni02C9 u02C9
+breve breve u02D8
+dotaccent dotaccent u02D9
+ring  ring  u02DA
+ogonek  ogonek  u02DB
+tilde tilde u02DC
+hungarumlaut  hungarumlaut  u02DD
+tonos tonos u0384
+dieresistonos dieresistonos u0385
+Alphatonos  Alphatonos  u0386
+anoteleia anoteleia u0387
+Epsilontonos  Epsilontonos  u0388
+Etatonos  Etatonos  u0389
+Iotatonos Iotatonos u038A
+Omicrontonos  Omicrontonos  u038C
+Upsilontonos  Upsilontonos  u038E
+Omegatonos  Omegatonos  u038F
+iotadieresistonos iotadieresistonos u0390
+Alpha Alpha u0391
+Beta  Beta  u0392
+Gamma Gamma u0393
+uni0394 uni0394 u0394
+Epsilon Epsilon u0395
+Zeta  Zeta  u0396
+Eta Eta u0397
+Theta Theta u0398
+Iota  Iota  u0399
+Kappa Kappa u039A
+Lambda  Lambda  u039B
+Mu  Mu  u039C
+Nu  Nu  u039D
+Xi  Xi  u039E
+Omicron Omicron u039F
+Pi  Pi  u03A0
+Rho Rho u03A1
+Sigma Sigma u03A3
+Tau Tau u03A4
+Upsilon Upsilon u03A5
+Phi Phi u03A6
+Chi Chi u03A7
+Psi Psi u03A8
+uni03A9 uni03A9 u03A9
+Iotadieresis  Iotadieresis  u03AA
+Upsilondieresis Upsilondieresis u03AB
+alphatonos  alphatonos  u03AC
+epsilontonos  epsilontonos  u03AD
+etatonos  etatonos  u03AE
+iotatonos iotatonos u03AF
+upsilondieresistonos  upsilondieresistonos  u03B0
+alpha alpha u03B1
+beta  beta  u03B2
+gamma gamma u03B3
+delta delta u03B4
+epsilon epsilon u03B5
+zeta  zeta  u03B6
+eta eta u03B7
+theta theta u03B8
+iota  iota  u03B9
+kappa kappa u03BA
+lambda  lambda  u03BB
+uni03BC uni03BC u03BC
+nu  nu  u03BD
+xi  xi  u03BE
+omicron omicron u03BF
+pi  pi  u03C0
+rho rho u03C1
+sigma1  sigma1  u03C2
+sigma sigma u03C3
+tau tau u03C4
+upsilon upsilon u03C5
+phi phi u03C6
+chi chi u03C7
+psi psi u03C8
+omega omega u03C9
+iotadieresis  iotadieresis  u03CA
+upsilondieresis upsilondieresis u03CB
+omicrontonos  omicrontonos  u03CC
+upsilontonos  upsilontonos  u03CD
+omegatonos  omegatonos  u03CE
+uni0401  afii10023 u0401
+uni0402  afii10051 u0402
+uni0403  afii10052 u0403
+uni0404  afii10053 u0404
+uni0405  afii10054 u0405
+uni0406  afii10055 u0406
+uni0407  afii10056 u0407
+uni0408  afii10057 u0408
+uni0409  afii10058 u0409
+uni040A  afii10059 u040A
+uni040B  afii10060 u040B
+uni040C  afii10061 u040C
+uni040E  afii10062 u040E
+uni040F  afii10145 u040F
+uni0410  afii10017 u0410
+uni0411  afii10018 u0411
+uni0412  afii10019 u0412
+uni0413  afii10020 u0413
+uni0414  afii10021 u0414
+uni0415  afii10022 u0415
+uni0416  afii10024 u0416
+uni0417  afii10025 u0417
+uni0418  afii10026 u0418
+uni0419  afii10027 u0419
+uni041A  afii10028 u041A
+uni041B  afii10029 u041B
+uni041C  afii10030 u041C
+uni041D  afii10031 u041D
+uni041E  afii10032 u041E
+uni041F  afii10033 u041F
+uni0420  afii10034 u0420
+uni0421  afii10035 u0421
+uni0422  afii10036 u0422
+uni0423  afii10037 u0423
+uni0424  afii10038 u0424
+uni0425  afii10039 u0425
+uni0426  afii10040 u0426
+uni0427  afii10041 u0427
+uni0428  afii10042 u0428
+uni0429  afii10043 u0429
+uni042A  afii10044 u042A
+uni042B  afii10045 u042B
+uni042C  afii10046 u042C
+uni042D  afii10047 u042D
+uni042E  afii10048 u042E
+uni042F  afii10049 u042F
+uni0430  afii10065 u0430
+uni0431  afii10066 u0431
+uni0432  afii10067 u0432
+uni0433  afii10068 u0433
+uni0434  afii10069 u0434
+uni0435  afii10070 u0435
+uni0436  afii10072 u0436
+uni0437  afii10073 u0437
+uni0438  afii10074 u0438
+uni0439  afii10075 u0439
+uni043A  afii10076 u043A
+uni043B  afii10077 u043B
+uni043C  afii10078 u043C
+uni043D  afii10079 u043D
+uni043E  afii10080 u043E
+uni043F  afii10081 u043F
+uni0440  afii10082 u0440
+uni0441  afii10083 u0441
+uni0442  afii10084 u0442
+uni0443  afii10085 u0443
+uni0444  afii10086 u0444
+uni0445  afii10087 u0445
+uni0446  afii10088 u0446
+uni0447  afii10089 u0447
+uni0448  afii10090 u0448
+uni0449  afii10091 u0449
+uni044A  afii10092 u044A
+uni044B  afii10093 u044B
+uni044C  afii10094 u044C
+uni044D  afii10095 u044D
+uni044E  afii10096 u044E
+uni044F  afii10097 u044F
+uni0451  afii10071 u0451
+uni0452  afii10099 u0452
+uni0453  afii10100 u0453
+uni0454  afii10101 u0454
+uni0455  afii10102 u0455
+uni0456  afii10103 u0456
+uni0457  afii10104 u0457
+uni0458  afii10105 u0458
+uni0459  afii10106 u0459
+uni045A  afii10107 u045A
+uni045B  afii10108 u045B
+uni045C  afii10109 u045C
+uni045E  afii10110 u045E
+uni045F  afii10193 u045F
+uni0490  afii10050 u0490
+uni0491  afii10098 u0491
+Wgrave  Wgrave  u1E80
+wgrave  wgrave  u1E81
+Wacute  Wacute  u1E82
+wacute  wacute  u1E83
+Wdieresis Wdieresis u1E84
+wdieresis wdieresis u1E85
+Ygrave  Ygrave  u1EF2
+ygrave  ygrave  u1EF3
+uni2015  afii00208 u2015
+underscoredbl underscoredbl u2017
+g486  g486
+g487  g487
+quotesinglbase  quotesinglbase  u201A
+quotereversed quotereversed u201B
+g490  g490
+quotedblbase  quotedblbase  u201E
+dagger  dagger  u2020
+daggerdbl daggerdbl u2021
+bullet  bullet  u2022
+perthousand perthousand u2030
+minute  minute  u2032
+second  second  u2033
+guilsinglleft guilsinglleft u2039
+guilsinglright  guilsinglright  u203A
+exclamdbl exclamdbl u203C
+fraction  fraction  u2044
+nsuperior nsuperior u207F
+franc franc u20A3
+lira  lira  u20A4
+peseta  peseta  u20A7
+Euro  Euro  u20AC
+uni2105  afii61248 u2105
+uni2113  afii61289 u2113
+uni2116  afii61352 u2116
+trademark trademark u2122
+Omega Omega u2126
+estimated estimated u212E
+oneeighth oneeighth u215B
+threeeighths  threeeighths  u215C
+fiveeighths fiveeighths u215D
+seveneighths  seveneighths  u215E
+partialdiff partialdiff u2202
+Delta Delta u2206
+product product u220F
+summation summation u2211
+radical radical u221A
+infinity  infinity  u221E
+integral  integral  u222B
+approxequal approxequal u2248
+notequal  notequal  u2260
+lessequal lessequal u2264
+greaterequal  greaterequal  u2265
+lozenge lozenge u25CA
+fi  fi  uFB01
+fl  fl  uFB02
+g531  g531
+uni0237 uni0237 u0237
+g533  g533
+g534  g534
+g535  g535
+foursuperior  foursuperior  u2074
+fivesuperior  fivesuperior  u2075
+sevensuperior sevensuperior u2077
+eightsuperior eightsuperior u2078
+uni2000 uni2000 u2000
+uni2001 uni2001 u2001
+uni2002 uni2002 u2002
+uni2003 uni2003 u2003
+uni2004 uni2004 u2004
+uni2005 uni2005 u2005
+uni2006 uni2006 u2006
+uni2007 uni2007 u2007
+uni2008 uni2008 u2008
+uni2009 uni2009 u2009
+uni200A uni200A u200A
+uniFFFC uniFFFC uFFFC
+uniFFFD uniFFFD uFFFD
+uni01F0 uni01F0 u01F0
+theta1  theta1  u03D1
+Upsilon1  Upsilon1  u03D2
+omega1  omega1  u03D6
+uni1E3E uni1E3E u1E3E
+uni1E3F uni1E3F u1E3F
+uni1E00 uni1E00 u1E00
+uni1E01 uni1E01 u1E01
+uni02F3 uni02F3 u02F3
+ffi ffi uFB03
+ffl ffl uFB04
+Ohorn Ohorn u01A0
+ohorn ohorn u01A1
+Uhorn Uhorn u01AF
+uhorn uhorn u01B0
+gravecomb gravecomb u0300
+acutecomb acutecomb u0301
+tildecomb tildecomb u0303
+g571  g571
+dotbelowcomb  dotbelowcomb  u0323
+uni0400 uni0400 u0400
+uni040D uni040D u040D
+uni0450 uni0450 u0450
+uni045D uni045D u045D
+uni0460 uni0460 u0460
+uni0461 uni0461 u0461
+uni0462  afii10146 u0462
+uni0463  afii10194 u0463
+uni0464 uni0464 u0464
+uni0465 uni0465 u0465
+uni0466 uni0466 u0466
+uni0467 uni0467 u0467
+uni0468 uni0468 u0468
+uni0469 uni0469 u0469
+uni046A uni046A u046A
+uni046B uni046B u046B
+uni046C uni046C u046C
+uni046D uni046D u046D
+uni046E uni046E u046E
+uni046F uni046F u046F
+uni0470 uni0470 u0470
+uni0471 uni0471 u0471
+uni0472  afii10147 u0472
+uni0473  afii10195 u0473
+uni0474  afii10148 u0474
+uni0475  afii10196 u0475
+uni0476 uni0476 u0476
+uni0477 uni0477 u0477
+uni0478 uni0478 u0478
+uni0479 uni0479 u0479
+uni047A uni047A u047A
+uni047B uni047B u047B
+uni047C uni047C u047C
+uni047D uni047D u047D
+uni047E uni047E u047E
+uni047F uni047F u047F
+uni0480 uni0480 u0480
+uni0481 uni0481 u0481
+uni0482 uni0482 u0482
+uni0483 uni0483 u0483
+uni0484 uni0484 u0484
+uni0485 uni0485 u0485
+uni0486 uni0486 u0486
+uni0488 uni0488 u0488
+uni0489 uni0489 u0489
+uni048A uni048A u048A
+uni048B uni048B u048B
+uni048C uni048C u048C
+uni048D uni048D u048D
+uni048E uni048E u048E
+uni048F uni048F u048F
+uni0492 uni0492 u0492
+uni0493 uni0493 u0493
+uni0494 uni0494 u0494
+uni0495 uni0495 u0495
+uni0496 uni0496 u0496
+uni0497 uni0497 u0497
+uni0498 uni0498 u0498
+uni0499 uni0499 u0499
+uni049A uni049A u049A
+uni049B uni049B u049B
+uni049C uni049C u049C
+uni049D uni049D u049D
+uni049E uni049E u049E
+uni049F uni049F u049F
+uni04A0 uni04A0 u04A0
+uni04A1 uni04A1 u04A1
+uni04A2 uni04A2 u04A2
+uni04A3 uni04A3 u04A3
+uni04A4 uni04A4 u04A4
+uni04A5 uni04A5 u04A5
+uni04A6 uni04A6 u04A6
+uni04A7 uni04A7 u04A7
+uni04A8 uni04A8 u04A8
+uni04A9 uni04A9 u04A9
+uni04AA uni04AA u04AA
+uni04AB uni04AB u04AB
+uni04AC uni04AC u04AC
+uni04AD uni04AD u04AD
+uni04AE uni04AE u04AE
+uni04AF uni04AF u04AF
+uni04B0 uni04B0 u04B0
+uni04B1 uni04B1 u04B1
+uni04B2 uni04B2 u04B2
+uni04B3 uni04B3 u04B3
+uni04B4 uni04B4 u04B4
+uni04B5 uni04B5 u04B5
+uni04B6 uni04B6 u04B6
+uni04B7 uni04B7 u04B7
+uni04B8 uni04B8 u04B8
+uni04B9 uni04B9 u04B9
+uni04BA uni04BA u04BA
+uni04BB uni04BB u04BB
+uni04BC uni04BC u04BC
+uni04BD uni04BD u04BD
+uni04BE uni04BE u04BE
+uni04BF uni04BF u04BF
+uni04C0 uni04C0 u04C0
+uni04C1 uni04C1 u04C1
+uni04C2 uni04C2 u04C2
+uni04C3 uni04C3 u04C3
+uni04C4 uni04C4 u04C4
+uni04C5 uni04C5 u04C5
+uni04C6 uni04C6 u04C6
+uni04C7 uni04C7 u04C7
+uni04C8 uni04C8 u04C8
+uni04C9 uni04C9 u04C9
+uni04CA uni04CA u04CA
+uni04CB uni04CB u04CB
+uni04CC uni04CC u04CC
+uni04CD uni04CD u04CD
+uni04CE uni04CE u04CE
+uni04CF uni04CF u04CF
+uni04D0 uni04D0 u04D0
+uni04D1 uni04D1 u04D1
+uni04D2 uni04D2 u04D2
+uni04D3 uni04D3 u04D3
+uni04D4 uni04D4 u04D4
+uni04D5 uni04D5 u04D5
+uni04D6 uni04D6 u04D6
+uni04D7 uni04D7 u04D7
+uni04D8 uni04D8 u04D8
+uni04D9  afii10846 u04D9
+uni04DA uni04DA u04DA
+uni04DB uni04DB u04DB
+uni04DC uni04DC u04DC
+uni04DD uni04DD u04DD
+uni04DE uni04DE u04DE
+uni04DF uni04DF u04DF
+uni04E0 uni04E0 u04E0
+uni04E1 uni04E1 u04E1
+uni04E2 uni04E2 u04E2
+uni04E3 uni04E3 u04E3
+uni04E4 uni04E4 u04E4
+uni04E5 uni04E5 u04E5
+uni04E6 uni04E6 u04E6
+uni04E7 uni04E7 u04E7
+uni04E8 uni04E8 u04E8
+uni04E9 uni04E9 u04E9
+uni04EA uni04EA u04EA
+uni04EB uni04EB u04EB
+uni04EC uni04EC u04EC
+uni04ED uni04ED u04ED
+uni04EE uni04EE u04EE
+uni04EF uni04EF u04EF
+uni04F0 uni04F0 u04F0
+uni04F1 uni04F1 u04F1
+uni04F2 uni04F2 u04F2
+uni04F3 uni04F3 u04F3
+uni04F4 uni04F4 u04F4
+uni04F5 uni04F5 u04F5
+uni04F6 uni04F6 u04F6
+uni04F7 uni04F7 u04F7
+uni04F8 uni04F8 u04F8
+uni04F9 uni04F9 u04F9
+uni04FA uni04FA u04FA
+uni04FB uni04FB u04FB
+uni04FC uni04FC u04FC
+uni04FD uni04FD u04FD
+uni04FE uni04FE u04FE
+uni04FF uni04FF u04FF
+uni0500 uni0500 u0500
+uni0501 uni0501 u0501
+uni0502 uni0502 u0502
+uni0503 uni0503 u0503
+uni0504 uni0504 u0504
+uni0505 uni0505 u0505
+uni0506 uni0506 u0506
+uni0507 uni0507 u0507
+uni0508 uni0508 u0508
+uni0509 uni0509 u0509
+uni050A uni050A u050A
+uni050B uni050B u050B
+uni050C uni050C u050C
+uni050D uni050D u050D
+uni050E uni050E u050E
+uni050F uni050F u050F
+uni0510 uni0510 u0510
+uni0511 uni0511 u0511
+uni0512 uni0512 u0512
+uni0513 uni0513 u0513
+uni1EA0 uni1EA0 u1EA0
+uni1EA1 uni1EA1 u1EA1
+uni1EA2 uni1EA2 u1EA2
+uni1EA3 uni1EA3 u1EA3
+uni1EA4 uni1EA4 u1EA4
+uni1EA5 uni1EA5 u1EA5
+uni1EA6 uni1EA6 u1EA6
+uni1EA7 uni1EA7 u1EA7
+uni1EA8 uni1EA8 u1EA8
+uni1EA9 uni1EA9 u1EA9
+uni1EAA uni1EAA u1EAA
+uni1EAB uni1EAB u1EAB
+uni1EAC uni1EAC u1EAC
+uni1EAD uni1EAD u1EAD
+uni1EAE uni1EAE u1EAE
+uni1EAF uni1EAF u1EAF
+uni1EB0 uni1EB0 u1EB0
+uni1EB1 uni1EB1 u1EB1
+uni1EB2 uni1EB2 u1EB2
+uni1EB3 uni1EB3 u1EB3
+uni1EB4 uni1EB4 u1EB4
+uni1EB5 uni1EB5 u1EB5
+uni1EB6 uni1EB6 u1EB6
+uni1EB7 uni1EB7 u1EB7
+uni1EB8 uni1EB8 u1EB8
+uni1EB9 uni1EB9 u1EB9
+uni1EBA uni1EBA u1EBA
+uni1EBB uni1EBB u1EBB
+uni1EBC uni1EBC u1EBC
+uni1EBD uni1EBD u1EBD
+uni1EBE uni1EBE u1EBE
+uni1EBF uni1EBF u1EBF
+uni1EC0 uni1EC0 u1EC0
+uni1EC1 uni1EC1 u1EC1
+uni1EC2 uni1EC2 u1EC2
+uni1EC3 uni1EC3 u1EC3
+uni1EC4 uni1EC4 u1EC4
+uni1EC5 uni1EC5 u1EC5
+uni1EC6 uni1EC6 u1EC6
+uni1EC7 uni1EC7 u1EC7
+uni1EC8 uni1EC8 u1EC8
+uni1EC9 uni1EC9 u1EC9
+uni1ECA uni1ECA u1ECA
+uni1ECB uni1ECB u1ECB
+uni1ECC uni1ECC u1ECC
+uni1ECD uni1ECD u1ECD
+uni1ECE uni1ECE u1ECE
+uni1ECF uni1ECF u1ECF
+uni1ED0 uni1ED0 u1ED0
+uni1ED1 uni1ED1 u1ED1
+uni1ED2 uni1ED2 u1ED2
+uni1ED3 uni1ED3 u1ED3
+uni1ED4 uni1ED4 u1ED4
+uni1ED5 uni1ED5 u1ED5
+uni1ED6 uni1ED6 u1ED6
+uni1ED7 uni1ED7 u1ED7
+uni1ED8 uni1ED8 u1ED8
+uni1ED9 uni1ED9 u1ED9
+uni1EDA uni1EDA u1EDA
+uni1EDB uni1EDB u1EDB
+uni1EDC uni1EDC u1EDC
+uni1EDD uni1EDD u1EDD
+uni1EDE uni1EDE u1EDE
+uni1EDF uni1EDF u1EDF
+uni1EE0 uni1EE0 u1EE0
+uni1EE1 uni1EE1 u1EE1
+uni1EE2 uni1EE2 u1EE2
+uni1EE3 uni1EE3 u1EE3
+uni1EE4 uni1EE4 u1EE4
+uni1EE5 uni1EE5 u1EE5
+uni1EE6 uni1EE6 u1EE6
+uni1EE7 uni1EE7 u1EE7
+uni1EE8 uni1EE8 u1EE8
+uni1EE9 uni1EE9 u1EE9
+uni1EEA uni1EEA u1EEA
+uni1EEB uni1EEB u1EEB
+uni1EEC uni1EEC u1EEC
+uni1EED uni1EED u1EED
+uni1EEE uni1EEE u1EEE
+uni1EEF uni1EEF u1EEF
+uni1EF0 uni1EF0 u1EF0
+uni1EF1 uni1EF1 u1EF1
+uni1EF4 uni1EF4 u1EF4
+uni1EF5 uni1EF5 u1EF5
+uni1EF6 uni1EF6 u1EF6
+uni1EF7 uni1EF7 u1EF7
+uni1EF8 uni1EF8 u1EF8
+uni1EF9 uni1EF9 u1EF9
+dong  dong  u20AB
+uni030F uni030F u030F
+g844  g844
+g845  g845
+g846  g846
+g847  g847
+g848  g848
+g849  g849
+g850  g850
+g851  g851
+g852  g852
+g853  g853
+Tcommaaccent  Tcommaaccent  u0162
+tcommaaccent  tcommaaccent  u0163
+uni0180 uni0180 u0180
+uni0181 uni0181 u0181
+uni0182 uni0182 u0182
+uni0183 uni0183 u0183
+uni0184 uni0184 u0184
+uni0185 uni0185 u0185
+uni0186 uni0186 u0186
+uni0187 uni0187 u0187
+uni0188 uni0188 u0188
+uni0189 uni0189 u0189
+uni018A uni018A u018A
+uni018B uni018B u018B
+uni018C uni018C u018C
+uni018D uni018D u018D
+uni018E uni018E u018E
+uni018F uni018F u018F
+uni0190 uni0190 u0190
+uni0191 uni0191 u0191
+uni0193 uni0193 u0193
+uni0194 uni0194 u0194
+uni0195 uni0195 u0195
+uni0196 uni0196 u0196
+uni0197 uni0197 u0197
+uni0198 uni0198 u0198
+uni0199 uni0199 u0199
+uni019A uni019A u019A
+uni019B uni019B u019B
+uni019C uni019C u019C
+uni019D uni019D u019D
+uni019E uni019E u019E
+uni019F uni019F u019F
+uni01A2 uni01A2 u01A2
+uni01A3 uni01A3 u01A3
+uni01A4 uni01A4 u01A4
+uni01A5 uni01A5 u01A5
+uni01A6 uni01A6 u01A6
+uni01A7 uni01A7 u01A7
+uni01A8 uni01A8 u01A8
+uni01A9 uni01A9 u01A9
+uni01AA uni01AA u01AA
+uni01AB uni01AB u01AB
+uni01AC uni01AC u01AC
+uni01AD uni01AD u01AD
+uni01AE uni01AE u01AE
+uni01B1 uni01B1 u01B1
+uni01B2 uni01B2 u01B2
+uni01B3 uni01B3 u01B3
+uni01B4 uni01B4 u01B4
+uni01B5 uni01B5 u01B5
+uni01B6 uni01B6 u01B6
+uni01B7 uni01B7 u01B7
+uni01B8 uni01B8 u01B8
+uni01B9 uni01B9 u01B9
+uni01BA uni01BA u01BA
+uni01BB uni01BB u01BB
+uni01BC uni01BC u01BC
+uni01BD uni01BD u01BD
+uni01BE uni01BE u01BE
+uni01BF uni01BF u01BF
+uni01C0 uni01C0 u01C0
+uni01C1 uni01C1 u01C1
+uni01C2 uni01C2 u01C2
+uni01C3 uni01C3 u01C3
+uni01C4 uni01C4 u01C4
+uni01C5 uni01C5 u01C5
+uni01C6 uni01C6 u01C6
+uni01C7 uni01C7 u01C7
+uni01C8 uni01C8 u01C8
+uni01C9 uni01C9 u01C9
+uni01CA uni01CA u01CA
+uni01CB uni01CB u01CB
+uni01CC uni01CC u01CC
+uni01CD uni01CD u01CD
+uni01CE uni01CE u01CE
+uni01CF uni01CF u01CF
+uni01D0 uni01D0 u01D0
+uni01D1 uni01D1 u01D1
+uni01D2 uni01D2 u01D2
+uni01D3 uni01D3 u01D3
+uni01D4 uni01D4 u01D4
+uni01D5 uni01D5 u01D5
+uni01D6 uni01D6 u01D6
+uni01D7 uni01D7 u01D7
+uni01D8 uni01D8 u01D8
+uni01D9 uni01D9 u01D9
+uni01DA uni01DA u01DA
+uni01DB uni01DB u01DB
+uni01DC uni01DC u01DC
+uni01DD uni01DD u01DD
+uni01DE uni01DE u01DE
+uni01DF uni01DF u01DF
+uni01E0 uni01E0 u01E0
+uni01E1 uni01E1 u01E1
+uni01E2 uni01E2 u01E2
+uni01E3 uni01E3 u01E3
+uni01E4 uni01E4 u01E4
+uni01E5 uni01E5 u01E5
+Gcaron  Gcaron  u01E6
+gcaron  gcaron  u01E7
+uni01E8 uni01E8 u01E8
+uni01E9 uni01E9 u01E9
+uni01EA uni01EA u01EA
+uni01EB uni01EB u01EB
+uni01EC uni01EC u01EC
+uni01ED uni01ED u01ED
+uni01EE uni01EE u01EE
+uni01EF uni01EF u01EF
+uni01F1 uni01F1 u01F1
+uni01F2 uni01F2 u01F2
+uni01F3 uni01F3 u01F3
+uni01F4 uni01F4 u01F4
+uni01F5 uni01F5 u01F5
+uni01F6 uni01F6 u01F6
+uni01F7 uni01F7 u01F7
+uni01F8 uni01F8 u01F8
+uni01F9 uni01F9 u01F9
+uni0200 uni0200 u0200
+uni0201 uni0201 u0201
+uni0202 uni0202 u0202
+uni0203 uni0203 u0203
+uni0204 uni0204 u0204
+uni0205 uni0205 u0205
+uni0206 uni0206 u0206
+uni0207 uni0207 u0207
+uni0208 uni0208 u0208
+uni0209 uni0209 u0209
+uni020A uni020A u020A
+uni020B uni020B u020B
+uni020C uni020C u020C
+uni020D uni020D u020D
+uni020E uni020E u020E
+uni020F uni020F u020F
+uni0210 uni0210 u0210
+uni0211 uni0211 u0211
+uni0212 uni0212 u0212
+uni0213 uni0213 u0213
+uni0214 uni0214 u0214
+uni0215 uni0215 u0215
+uni0216 uni0216 u0216
+uni0217 uni0217 u0217
+uni021C uni021C u021C
+uni021D uni021D u021D
+uni021E uni021E u021E
+uni021F uni021F u021F
+uni0220 uni0220 u0220
+uni0221 uni0221 u0221
+uni0222 uni0222 u0222
+uni0223 uni0223 u0223
+uni0224 uni0224 u0224
+uni0225 uni0225 u0225
+uni0226 uni0226 u0226
+uni0227 uni0227 u0227
+uni0228 uni0228 u0228
+uni0229 uni0229 u0229
+uni022A uni022A u022A
+uni022B uni022B u022B
+uni022C uni022C u022C
+uni022D uni022D u022D
+uni022E uni022E u022E
+uni022F uni022F u022F
+uni0230 uni0230 u0230
+uni0231 uni0231 u0231
+uni0232 uni0232 u0232
+uni0233 uni0233 u0233
+uni0234 uni0234 u0234
+uni0235 uni0235 u0235
+uni0236 uni0236 u0236
+uni0238 uni0238 u0238
+uni0239 uni0239 u0239
+uni023A uni023A u023A
+uni023B uni023B u023B
+uni023C uni023C u023C
+uni023D uni023D u023D
+uni023E uni023E u023E
+uni023F uni023F u023F
+uni0240 uni0240 u0240
+uni0241 uni0241 u0241
+uni0242 uni0242 u0242
+uni0243 uni0243 u0243
+uni0244 uni0244 u0244
+uni0245 uni0245 u0245
+uni0246 uni0246 u0246
+uni0247 uni0247 u0247
+uni0248 uni0248 u0248
+uni0249 uni0249 u0249
+uni024A uni024A u024A
+uni024B uni024B u024B
+uni024C uni024C u024C
+uni024D uni024D u024D
+uni024E uni024E u024E
+uni024F uni024F u024F
+uni0250 uni0250 u0250
+uni0251 uni0251 u0251
+uni0252 uni0252 u0252
+uni0253 uni0253 u0253
+uni0254 uni0254 u0254
+uni0255 uni0255 u0255
+uni0256 uni0256 u0256
+uni0257 uni0257 u0257
+uni0258 uni0258 u0258
+uni0259 uni0259 u0259
+uni025A uni025A u025A
+uni025B uni025B u025B
+uni025C uni025C u025C
+uni025D uni025D u025D
+uni025E uni025E u025E
+uni025F uni025F u025F
+uni0260 uni0260 u0260
+uni0261 uni0261 u0261
+uni0262 uni0262 u0262
+uni0263 uni0263 u0263
+uni0264 uni0264 u0264
+uni0265 uni0265 u0265
+uni0266 uni0266 u0266
+uni0267 uni0267 u0267
+uni0268 uni0268 u0268
+uni0269 uni0269 u0269
+uni026A uni026A u026A
+uni026B uni026B u026B
+uni026C uni026C u026C
+uni026D uni026D u026D
+uni026E uni026E u026E
+uni026F uni026F u026F
+uni0270 uni0270 u0270
+uni0271 uni0271 u0271
+uni0272 uni0272 u0272
+uni0273 uni0273 u0273
+uni0274 uni0274 u0274
+uni0275 uni0275 u0275
+uni0276 uni0276 u0276
+uni0277 uni0277 u0277
+uni0278 uni0278 u0278
+uni0279 uni0279 u0279
+uni027A uni027A u027A
+uni027B uni027B u027B
+uni027C uni027C u027C
+uni027D uni027D u027D
+uni027E uni027E u027E
+uni027F uni027F u027F
+uni0280 uni0280 u0280
+uni0281 uni0281 u0281
+uni0282 uni0282 u0282
+uni0283 uni0283 u0283
+uni0284 uni0284 u0284
+uni0285 uni0285 u0285
+uni0286 uni0286 u0286
+uni0287 uni0287 u0287
+uni0288 uni0288 u0288
+uni0289 uni0289 u0289
+uni028A uni028A u028A
+uni028B uni028B u028B
+uni028C uni028C u028C
+uni028D uni028D u028D
+uni028E uni028E u028E
+uni028F uni028F u028F
+uni0290 uni0290 u0290
+uni0291 uni0291 u0291
+uni0292 uni0292 u0292
+uni0293 uni0293 u0293
+uni0294 uni0294 u0294
+uni0295 uni0295 u0295
+uni0296 uni0296 u0296
+uni0297 uni0297 u0297
+uni0298 uni0298 u0298
+uni0299 uni0299 u0299
+uni029A uni029A u029A
+uni029B uni029B u029B
+uni029C uni029C u029C
+uni029D uni029D u029D
+uni029E uni029E u029E
+uni029F uni029F u029F
+uni02A0 uni02A0 u02A0
+uni02A1 uni02A1 u02A1
+uni02A2 uni02A2 u02A2
+uni02A3 uni02A3 u02A3
+uni02A4 uni02A4 u02A4
+uni02A5 uni02A5 u02A5
+uni02A6 uni02A6 u02A6
+uni02A7 uni02A7 u02A7
+uni02A8 uni02A8 u02A8
+uni02A9 uni02A9 u02A9
+uni02AA uni02AA u02AA
+uni02AB uni02AB u02AB
+uni02AC uni02AC u02AC
+uni02AD uni02AD u02AD
+uni02AE uni02AE u02AE
+uni02AF uni02AF u02AF
+uni02B0 uni02B0 u02B0
+uni02B1 uni02B1 u02B1
+uni02B2 uni02B2 u02B2
+uni02B3 uni02B3 u02B3
+uni02B4 uni02B4 u02B4
+uni02B5 uni02B5 u02B5
+uni02B6 uni02B6 u02B6
+uni02B7 uni02B7 u02B7
+uni02B8 uni02B8 u02B8
+uni02B9 uni02B9 u02B9
+uni02BA uni02BA u02BA
+uni02BB uni02BB u02BB
+uni02BD  afii64937 u02BD
+uni02BE uni02BE u02BE
+uni02BF uni02BF u02BF
+uni02C0 uni02C0 u02C0
+uni02C1 uni02C1 u02C1
+uni02C2 uni02C2 u02C2
+uni02C3 uni02C3 u02C3
+uni02C4 uni02C4 u02C4
+uni02C5 uni02C5 u02C5
+uni02C8 uni02C8 u02C8
+uni02CA uni02CA u02CA
+uni02CB uni02CB u02CB
+uni02CC uni02CC u02CC
+uni02CD uni02CD u02CD
+uni02CE uni02CE u02CE
+uni02CF uni02CF u02CF
+uni02D0 uni02D0 u02D0
+uni02D1 uni02D1 u02D1
+uni02D2 uni02D2 u02D2
+uni02D3 uni02D3 u02D3
+uni02D4 uni02D4 u02D4
+uni02D5 uni02D5 u02D5
+uni02D6 uni02D6 u02D6
+uni02D7 uni02D7 u02D7
+uni02DE uni02DE u02DE
+uni02DF uni02DF u02DF
+uni02E0 uni02E0 u02E0
+uni02E1 uni02E1 u02E1
+uni02E2 uni02E2 u02E2
+uni02E3 uni02E3 u02E3
+uni02E4 uni02E4 u02E4
+uni02E5 uni02E5 u02E5
+uni02E6 uni02E6 u02E6
+uni02E7 uni02E7 u02E7
+uni02E8 uni02E8 u02E8
+uni02E9 uni02E9 u02E9
+uni02EA uni02EA u02EA
+uni02EB uni02EB u02EB
+uni02EC uni02EC u02EC
+uni02ED uni02ED u02ED
+uni02EE uni02EE u02EE
+uni02EF uni02EF u02EF
+uni02F0 uni02F0 u02F0
+uni02F1 uni02F1 u02F1
+uni02F2 uni02F2 u02F2
+uni02F4 uni02F4 u02F4
+uni02F5 uni02F5 u02F5
+uni02F6 uni02F6 u02F6
+uni02F7 uni02F7 u02F7
+uni02F8 uni02F8 u02F8
+uni02F9 uni02F9 u02F9
+uni02FA uni02FA u02FA
+uni02FB uni02FB u02FB
+uni02FC uni02FC u02FC
+uni02FD uni02FD u02FD
+uni02FE uni02FE u02FE
+uni02FF uni02FF u02FF
+uni0302 uni0302 u0302
+uni0304 uni0304 u0304
+uni0305 uni0305 u0305
+uni0306 uni0306 u0306
+uni0307 uni0307 u0307
+uni0308 uni0308 u0308
+hookabovecomb hookabovecomb u0309
+uni030A uni030A u030A
+uni030B uni030B u030B
+uni030C uni030C u030C
+uni030D uni030D u030D
+uni030E uni030E u030E
+uni0310 uni0310 u0310
+uni0311 uni0311 u0311
+uni0312 uni0312 u0312
+uni0313 uni0313 u0313
+uni0314 uni0314 u0314
+uni0315 uni0315 u0315
+uni0316 uni0316 u0316
+uni0317 uni0317 u0317
+uni0318 uni0318 u0318
+uni0319 uni0319 u0319
+uni031A uni031A u031A
+uni031B uni031B u031B
+uni031C uni031C u031C
+uni031D uni031D u031D
+uni031E uni031E u031E
+uni031F uni031F u031F
+uni0320 uni0320 u0320
+uni0321 uni0321 u0321
+uni0322 uni0322 u0322
+uni0324 uni0324 u0324
+uni0325 uni0325 u0325
+uni0326 uni0326 u0326
+uni0327 uni0327 u0327
+uni0328 uni0328 u0328
+uni0329 uni0329 u0329
+uni032A uni032A u032A
+uni032B uni032B u032B
+uni032C uni032C u032C
+uni032D uni032D u032D
+uni032E uni032E u032E
+uni032F uni032F u032F
+uni0330 uni0330 u0330
+uni0331 uni0331 u0331
+uni0332 uni0332 u0332
+uni0333 uni0333 u0333
+uni0334 uni0334 u0334
+uni0335 uni0335 u0335
+uni0336 uni0336 u0336
+uni0337 uni0337 u0337
+uni0338 uni0338 u0338
+uni0339 uni0339 u0339
+uni033A uni033A u033A
+uni033B uni033B u033B
+uni033C uni033C u033C
+uni033D uni033D u033D
+uni033E uni033E u033E
+uni033F uni033F u033F
+uni0340 uni0340 u0340
+uni0341 uni0341 u0341
+uni0342 uni0342 u0342
+uni0343 uni0343 u0343
+uni0344 uni0344 u0344
+uni0345 uni0345 u0345
+uni0346 uni0346 u0346
+uni0347 uni0347 u0347
+uni0348 uni0348 u0348
+uni0349 uni0349 u0349
+uni034A uni034A u034A
+uni034B uni034B u034B
+uni034C uni034C u034C
+uni034D uni034D u034D
+uni034E uni034E u034E
+uni034F uni034F u034F
+uni0350 uni0350 u0350
+uni0351 uni0351 u0351
+uni0352 uni0352 u0352
+uni0353 uni0353 u0353
+uni0354 uni0354 u0354
+uni0355 uni0355 u0355
+uni0356 uni0356 u0356
+uni0357 uni0357 u0357
+uni0358 uni0358 u0358
+uni0359 uni0359 u0359
+uni035A uni035A u035A
+uni035B uni035B u035B
+uni035C uni035C u035C
+uni035D uni035D u035D
+uni035E uni035E u035E
+uni035F uni035F u035F
+uni0360 uni0360 u0360
+uni0361 uni0361 u0361
+uni0362 uni0362 u0362
+uni0363 uni0363 u0363
+uni0364 uni0364 u0364
+uni0365 uni0365 u0365
+uni0366 uni0366 u0366
+uni0367 uni0367 u0367
+uni0368 uni0368 u0368
+uni0369 uni0369 u0369
+uni036A uni036A u036A
+uni036B uni036B u036B
+uni036C uni036C u036C
+uni036D uni036D u036D
+uni036E uni036E u036E
+uni036F uni036F u036F
+uni0374 uni0374 u0374
+uni0375 uni0375 u0375
+uni037A uni037A u037A
+uni037B uni037B u037B
+uni037C uni037C u037C
+uni037D uni037D u037D
+uni037E uni037E u037E
+uni03D0 uni03D0 u03D0
+uni03D3 uni03D3 u03D3
+uni03D4 uni03D4 u03D4
+phi1  phi1  u03D5
+uni03D7 uni03D7 u03D7
+uni03D8 uni03D8 u03D8
+uni03D9 uni03D9 u03D9
+uni03DA uni03DA u03DA
+uni03DB uni03DB u03DB
+uni03DC uni03DC u03DC
+uni03DD uni03DD u03DD
+uni03DE uni03DE u03DE
+uni03DF uni03DF u03DF
+uni03E0 uni03E0 u03E0
+uni03E1 uni03E1 u03E1
+uni03E2 uni03E2 u03E2
+uni03E3 uni03E3 u03E3
+uni03E4 uni03E4 u03E4
+uni03E5 uni03E5 u03E5
+uni03E6 uni03E6 u03E6
+uni03E7 uni03E7 u03E7
+uni03E8 uni03E8 u03E8
+uni03E9 uni03E9 u03E9
+uni03EA uni03EA u03EA
+uni03EB uni03EB u03EB
+uni03EC uni03EC u03EC
+uni03ED uni03ED u03ED
+uni03EE uni03EE u03EE
+uni03EF uni03EF u03EF
+uni03F0 uni03F0 u03F0
+uni03F1 uni03F1 u03F1
+uni03F2 uni03F2 u03F2
+uni03F3 uni03F3 u03F3
+uni03F4 uni03F4 u03F4
+uni03F5 uni03F5 u03F5
+uni03F6 uni03F6 u03F6
+uni03F7 uni03F7 u03F7
+uni03F8 uni03F8 u03F8
+uni03F9 uni03F9 u03F9
+uni03FA uni03FA u03FA
+uni03FB uni03FB u03FB
+uni03FC uni03FC u03FC
+uni03FD uni03FD u03FD
+uni03FE uni03FE u03FE
+uni03FF uni03FF u03FF
+uni0487 uni0487 u0487
+uni051A uni051A u051A
+uni051B uni051B u051B
+uni051C uni051C u051C
+uni051D uni051D u051D
+uni1D00 uni1D00 u1D00
+uni1D01 uni1D01 u1D01
+uni1D02 uni1D02 u1D02
+uni1D03 uni1D03 u1D03
+uni1D04 uni1D04 u1D04
+uni1D05 uni1D05 u1D05
+uni1D06 uni1D06 u1D06
+uni1D07 uni1D07 u1D07
+uni1D08 uni1D08 u1D08
+uni1D09 uni1D09 u1D09
+uni1D0A uni1D0A u1D0A
+uni1D0B uni1D0B u1D0B
+uni1D0C uni1D0C u1D0C
+uni1D0D uni1D0D u1D0D
+uni1D0E uni1D0E u1D0E
+uni1D0F uni1D0F u1D0F
+uni1D10 uni1D10 u1D10
+uni1D11 uni1D11 u1D11
+uni1D12 uni1D12 u1D12
+uni1D13 uni1D13 u1D13
+uni1D14 uni1D14 u1D14
+uni1D15 uni1D15 u1D15
+uni1D16 uni1D16 u1D16
+uni1D17 uni1D17 u1D17
+uni1D18 uni1D18 u1D18
+uni1D19 uni1D19 u1D19
+uni1D1A uni1D1A u1D1A
+uni1D1B uni1D1B u1D1B
+uni1D1C uni1D1C u1D1C
+uni1D1D uni1D1D u1D1D
+uni1D1E uni1D1E u1D1E
+uni1D1F uni1D1F u1D1F
+uni1D20 uni1D20 u1D20
+uni1D21 uni1D21 u1D21
+uni1D22 uni1D22 u1D22
+uni1D23 uni1D23 u1D23
+uni1D24 uni1D24 u1D24
+uni1D25 uni1D25 u1D25
+uni1D26 uni1D26 u1D26
+uni1D27 uni1D27 u1D27
+uni1D28 uni1D28 u1D28
+uni1D29 uni1D29 u1D29
+uni1D2A uni1D2A u1D2A
+uni1D2B uni1D2B u1D2B
+uni1D2C uni1D2C u1D2C
+uni1D2D uni1D2D u1D2D
+uni1D2E uni1D2E u1D2E
+uni1D2F uni1D2F u1D2F
+uni1D30 uni1D30 u1D30
+uni1D31 uni1D31 u1D31
+uni1D32 uni1D32 u1D32
+uni1D33 uni1D33 u1D33
+uni1D34 uni1D34 u1D34
+uni1D35 uni1D35 u1D35
+uni1D36 uni1D36 u1D36
+uni1D37 uni1D37 u1D37
+uni1D38 uni1D38 u1D38
+uni1D39 uni1D39 u1D39
+uni1D3A uni1D3A u1D3A
+uni1D3B uni1D3B u1D3B
+uni1D3C uni1D3C u1D3C
+uni1D3D uni1D3D u1D3D
+uni1D3E uni1D3E u1D3E
+uni1D3F uni1D3F u1D3F
+uni1D40 uni1D40 u1D40
+uni1D41 uni1D41 u1D41
+uni1D42 uni1D42 u1D42
+uni1D43 uni1D43 u1D43
+uni1D44 uni1D44 u1D44
+uni1D45 uni1D45 u1D45
+uni1D46 uni1D46 u1D46
+uni1D47 uni1D47 u1D47
+uni1D48 uni1D48 u1D48
+uni1D49 uni1D49 u1D49
+uni1D4A uni1D4A u1D4A
+uni1D4B uni1D4B u1D4B
+uni1D4C uni1D4C u1D4C
+uni1D4D uni1D4D u1D4D
+uni1D4E uni1D4E u1D4E
+uni1D4F uni1D4F u1D4F
+uni1D50 uni1D50 u1D50
+uni1D51 uni1D51 u1D51
+uni1D52 uni1D52 u1D52
+uni1D53 uni1D53 u1D53
+uni1D54 uni1D54 u1D54
+uni1D55 uni1D55 u1D55
+uni1D56 uni1D56 u1D56
+uni1D57 uni1D57 u1D57
+uni1D58 uni1D58 u1D58
+uni1D59 uni1D59 u1D59
+uni1D5A uni1D5A u1D5A
+uni1D5B uni1D5B u1D5B
+uni1D5C uni1D5C u1D5C
+uni1D5D uni1D5D u1D5D
+uni1D5E uni1D5E u1D5E
+uni1D5F uni1D5F u1D5F
+uni1D60 uni1D60 u1D60
+uni1D61 uni1D61 u1D61
+uni1D62 uni1D62 u1D62
+uni1D63 uni1D63 u1D63
+uni1D64 uni1D64 u1D64
+uni1D65 uni1D65 u1D65
+uni1D66 uni1D66 u1D66
+uni1D67 uni1D67 u1D67
+uni1D68 uni1D68 u1D68
+uni1D69 uni1D69 u1D69
+uni1D6A uni1D6A u1D6A
+uni1D6B uni1D6B u1D6B
+uni1D6C uni1D6C u1D6C
+uni1D6D uni1D6D u1D6D
+uni1D6E uni1D6E u1D6E
+uni1D6F uni1D6F u1D6F
+uni1D70 uni1D70 u1D70
+uni1D71 uni1D71 u1D71
+uni1D72 uni1D72 u1D72
+uni1D73 uni1D73 u1D73
+uni1D74 uni1D74 u1D74
+uni1D75 uni1D75 u1D75
+uni1D76 uni1D76 u1D76
+uni1D77 uni1D77 u1D77
+uni1D78 uni1D78 u1D78
+uni1D79 uni1D79 u1D79
+uni1D7A uni1D7A u1D7A
+uni1D7B uni1D7B u1D7B
+uni1D7C uni1D7C u1D7C
+uni1D7D uni1D7D u1D7D
+uni1D7E uni1D7E u1D7E
+uni1D7F uni1D7F u1D7F
+uni1D80 uni1D80 u1D80
+uni1D81 uni1D81 u1D81
+uni1D82 uni1D82 u1D82
+uni1D83 uni1D83 u1D83
+uni1D84 uni1D84 u1D84
+uni1D85 uni1D85 u1D85
+uni1D86 uni1D86 u1D86
+uni1D87 uni1D87 u1D87
+uni1D88 uni1D88 u1D88
+uni1D89 uni1D89 u1D89
+uni1D8A uni1D8A u1D8A
+uni1D8B uni1D8B u1D8B
+uni1D8C uni1D8C u1D8C
+uni1D8D uni1D8D u1D8D
+uni1D8E uni1D8E u1D8E
+uni1D8F uni1D8F u1D8F
+uni1D90 uni1D90 u1D90
+uni1D91 uni1D91 u1D91
+uni1D92 uni1D92 u1D92
+uni1D93 uni1D93 u1D93
+uni1D94 uni1D94 u1D94
+uni1D95 uni1D95 u1D95
+uni1D96 uni1D96 u1D96
+uni1D97 uni1D97 u1D97
+uni1D98 uni1D98 u1D98
+uni1D99 uni1D99 u1D99
+uni1D9A uni1D9A u1D9A
+uni1D9B uni1D9B u1D9B
+uni1D9C uni1D9C u1D9C
+uni1D9D uni1D9D u1D9D
+uni1D9E uni1D9E u1D9E
+uni1D9F uni1D9F u1D9F
+uni1DA0 uni1DA0 u1DA0
+uni1DA1 uni1DA1 u1DA1
+uni1DA2 uni1DA2 u1DA2
+uni1DA3 uni1DA3 u1DA3
+uni1DA4 uni1DA4 u1DA4
+uni1DA5 uni1DA5 u1DA5
+uni1DA6 uni1DA6 u1DA6
+uni1DA7 uni1DA7 u1DA7
+uni1DA8 uni1DA8 u1DA8
+uni1DA9 uni1DA9 u1DA9
+uni1DAA uni1DAA u1DAA
+uni1DAB uni1DAB u1DAB
+uni1DAC uni1DAC u1DAC
+uni1DAD uni1DAD u1DAD
+uni1DAE uni1DAE u1DAE
+uni1DAF uni1DAF u1DAF
+uni1DB0 uni1DB0 u1DB0
+uni1DB1 uni1DB1 u1DB1
+uni1DB2 uni1DB2 u1DB2
+uni1DB3 uni1DB3 u1DB3
+uni1DB4 uni1DB4 u1DB4
+uni1DB5 uni1DB5 u1DB5
+uni1DB6 uni1DB6 u1DB6
+uni1DB7 uni1DB7 u1DB7
+uni1DB8 uni1DB8 u1DB8
+uni1DB9 uni1DB9 u1DB9
+uni1DBA uni1DBA u1DBA
+uni1DBB uni1DBB u1DBB
+uni1DBC uni1DBC u1DBC
+uni1DBD uni1DBD u1DBD
+uni1DBE uni1DBE u1DBE
+uni1DBF uni1DBF u1DBF
+uni1DC0 uni1DC0 u1DC0
+uni1DC1 uni1DC1 u1DC1
+uni1DC2 uni1DC2 u1DC2
+uni1DC3 uni1DC3 u1DC3
+uni1DC4 uni1DC4 u1DC4
+uni1DC5 uni1DC5 u1DC5
+uni1DC6 uni1DC6 u1DC6
+uni1DC7 uni1DC7 u1DC7
+uni1DC8 uni1DC8 u1DC8
+uni1DC9 uni1DC9 u1DC9
+uni1DCA uni1DCA u1DCA
+uni1DFE uni1DFE u1DFE
+uni1DFF uni1DFF u1DFF
+uni1E02 uni1E02 u1E02
+uni1E03 uni1E03 u1E03
+uni1E04 uni1E04 u1E04
+uni1E05 uni1E05 u1E05
+uni1E06 uni1E06 u1E06
+uni1E07 uni1E07 u1E07
+uni1E08 uni1E08 u1E08
+uni1E09 uni1E09 u1E09
+uni1E0A uni1E0A u1E0A
+uni1E0B uni1E0B u1E0B
+uni1E0C uni1E0C u1E0C
+uni1E0D uni1E0D u1E0D
+uni1E0E uni1E0E u1E0E
+uni1E0F uni1E0F u1E0F
+uni1E10 uni1E10 u1E10
+uni1E11 uni1E11 u1E11
+uni1E12 uni1E12 u1E12
+uni1E13 uni1E13 u1E13
+uni1E14 uni1E14 u1E14
+uni1E15 uni1E15 u1E15
+uni1E16 uni1E16 u1E16
+uni1E17 uni1E17 u1E17
+uni1E18 uni1E18 u1E18
+uni1E19 uni1E19 u1E19
+uni1E1A uni1E1A u1E1A
+uni1E1B uni1E1B u1E1B
+uni1E1C uni1E1C u1E1C
+uni1E1D uni1E1D u1E1D
+uni1E1E uni1E1E u1E1E
+uni1E1F uni1E1F u1E1F
+uni1E20 uni1E20 u1E20
+uni1E21 uni1E21 u1E21
+uni1E22 uni1E22 u1E22
+uni1E23 uni1E23 u1E23
+uni1E24 uni1E24 u1E24
+uni1E25 uni1E25 u1E25
+uni1E26 uni1E26 u1E26
+uni1E27 uni1E27 u1E27
+uni1E28 uni1E28 u1E28
+uni1E29 uni1E29 u1E29
+uni1E2A uni1E2A u1E2A
+uni1E2B uni1E2B u1E2B
+uni1E2C uni1E2C u1E2C
+uni1E2D uni1E2D u1E2D
+uni1E2E uni1E2E u1E2E
+uni1E2F uni1E2F u1E2F
+uni1E30 uni1E30 u1E30
+uni1E31 uni1E31 u1E31
+uni1E32 uni1E32 u1E32
+uni1E33 uni1E33 u1E33
+uni1E34 uni1E34 u1E34
+uni1E35 uni1E35 u1E35
+uni1E36 uni1E36 u1E36
+uni1E37 uni1E37 u1E37
+uni1E38 uni1E38 u1E38
+uni1E39 uni1E39 u1E39
+uni1E3A uni1E3A u1E3A
+uni1E3B uni1E3B u1E3B
+uni1E3C uni1E3C u1E3C
+uni1E3D uni1E3D u1E3D
+uni1E40 uni1E40 u1E40
+uni1E41 uni1E41 u1E41
+uni1E42 uni1E42 u1E42
+uni1E43 uni1E43 u1E43
+uni1E44 uni1E44 u1E44
+uni1E45 uni1E45 u1E45
+uni1E46 uni1E46 u1E46
+uni1E47 uni1E47 u1E47
+uni1E48 uni1E48 u1E48
+uni1E49 uni1E49 u1E49
+uni1E4A uni1E4A u1E4A
+uni1E4B uni1E4B u1E4B
+uni1E4C uni1E4C u1E4C
+uni1E4D uni1E4D u1E4D
+uni1E4E uni1E4E u1E4E
+uni1E4F uni1E4F u1E4F
+uni1E50 uni1E50 u1E50
+uni1E51 uni1E51 u1E51
+uni1E52 uni1E52 u1E52
+uni1E53 uni1E53 u1E53
+uni1E54 uni1E54 u1E54
+uni1E55 uni1E55 u1E55
+uni1E56 uni1E56 u1E56
+uni1E57 uni1E57 u1E57
+uni1E58 uni1E58 u1E58
+uni1E59 uni1E59 u1E59
+uni1E5A uni1E5A u1E5A
+uni1E5B uni1E5B u1E5B
+uni1E5C uni1E5C u1E5C
+uni1E5D uni1E5D u1E5D
+uni1E5E uni1E5E u1E5E
+uni1E5F uni1E5F u1E5F
+uni1E60 uni1E60 u1E60
+uni1E61 uni1E61 u1E61
+uni1E62 uni1E62 u1E62
+uni1E63 uni1E63 u1E63
+uni1E64 uni1E64 u1E64
+uni1E65 uni1E65 u1E65
+uni1E66 uni1E66 u1E66
+uni1E67 uni1E67 u1E67
+uni1E68 uni1E68 u1E68
+uni1E69 uni1E69 u1E69
+uni1E6A uni1E6A u1E6A
+uni1E6B uni1E6B u1E6B
+uni1E6C uni1E6C u1E6C
+uni1E6D uni1E6D u1E6D
+uni1E6E uni1E6E u1E6E
+uni1E6F uni1E6F u1E6F
+uni1E70 uni1E70 u1E70
+uni1E71 uni1E71 u1E71
+uni1E72 uni1E72 u1E72
+uni1E73 uni1E73 u1E73
+uni1E74 uni1E74 u1E74
+uni1E75 uni1E75 u1E75
+uni1E76 uni1E76 u1E76
+uni1E77 uni1E77 u1E77
+uni1E78 uni1E78 u1E78
+uni1E79 uni1E79 u1E79
+uni1E7A uni1E7A u1E7A
+uni1E7B uni1E7B u1E7B
+uni1E7C uni1E7C u1E7C
+uni1E7D uni1E7D u1E7D
+uni1E7E uni1E7E u1E7E
+uni1E7F uni1E7F u1E7F
+uni1E86 uni1E86 u1E86
+uni1E87 uni1E87 u1E87
+uni1E88 uni1E88 u1E88
+uni1E89 uni1E89 u1E89
+uni1E8A uni1E8A u1E8A
+uni1E8B uni1E8B u1E8B
+uni1E8C uni1E8C u1E8C
+uni1E8D uni1E8D u1E8D
+uni1E8E uni1E8E u1E8E
+uni1E8F uni1E8F u1E8F
+uni1E90 uni1E90 u1E90
+uni1E91 uni1E91 u1E91
+uni1E92 uni1E92 u1E92
+uni1E93 uni1E93 u1E93
+uni1E94 uni1E94 u1E94
+uni1E95 uni1E95 u1E95
+uni1E96 uni1E96 u1E96
+uni1E97 uni1E97 u1E97
+uni1E98 uni1E98 u1E98
+uni1E99 uni1E99 u1E99
+uni1E9A uni1E9A u1E9A
+uni1E9B uni1E9B u1E9B
+uni1E9E uni1E9E u1E9E
+uni1F00 uni1F00 u1F00
+uni1F01 uni1F01 u1F01
+uni1F02 uni1F02 u1F02
+uni1F03 uni1F03 u1F03
+uni1F04 uni1F04 u1F04
+uni1F05 uni1F05 u1F05
+uni1F06 uni1F06 u1F06
+uni1F07 uni1F07 u1F07
+uni1F08 uni1F08 u1F08
+uni1F09 uni1F09 u1F09
+uni1F0A uni1F0A u1F0A
+uni1F0B uni1F0B u1F0B
+uni1F0C uni1F0C u1F0C
+uni1F0D uni1F0D u1F0D
+uni1F0E uni1F0E u1F0E
+uni1F0F uni1F0F u1F0F
+uni1F10 uni1F10 u1F10
+uni1F11 uni1F11 u1F11
+uni1F12 uni1F12 u1F12
+uni1F13 uni1F13 u1F13
+uni1F14 uni1F14 u1F14
+uni1F15 uni1F15 u1F15
+uni1F18 uni1F18 u1F18
+uni1F19 uni1F19 u1F19
+uni1F1A uni1F1A u1F1A
+uni1F1B uni1F1B u1F1B
+uni1F1C uni1F1C u1F1C
+uni1F1D uni1F1D u1F1D
+uni1F20 uni1F20 u1F20
+uni1F21 uni1F21 u1F21
+uni1F22 uni1F22 u1F22
+uni1F23 uni1F23 u1F23
+uni1F24 uni1F24 u1F24
+uni1F25 uni1F25 u1F25
+uni1F26 uni1F26 u1F26
+uni1F27 uni1F27 u1F27
+uni1F28 uni1F28 u1F28
+uni1F29 uni1F29 u1F29
+uni1F2A uni1F2A u1F2A
+uni1F2B uni1F2B u1F2B
+uni1F2C uni1F2C u1F2C
+uni1F2D uni1F2D u1F2D
+uni1F2E uni1F2E u1F2E
+uni1F2F uni1F2F u1F2F
+uni1F30 uni1F30 u1F30
+uni1F31 uni1F31 u1F31
+uni1F32 uni1F32 u1F32
+uni1F33 uni1F33 u1F33
+uni1F34 uni1F34 u1F34
+uni1F35 uni1F35 u1F35
+uni1F36 uni1F36 u1F36
+uni1F37 uni1F37 u1F37
+uni1F38 uni1F38 u1F38
+uni1F39 uni1F39 u1F39
+uni1F3A uni1F3A u1F3A
+uni1F3B uni1F3B u1F3B
+uni1F3C uni1F3C u1F3C
+uni1F3D uni1F3D u1F3D
+uni1F3E uni1F3E u1F3E
+uni1F3F uni1F3F u1F3F
+uni1F40 uni1F40 u1F40
+uni1F41 uni1F41 u1F41
+uni1F42 uni1F42 u1F42
+uni1F43 uni1F43 u1F43
+uni1F44 uni1F44 u1F44
+uni1F45 uni1F45 u1F45
+uni1F48 uni1F48 u1F48
+uni1F49 uni1F49 u1F49
+uni1F4A uni1F4A u1F4A
+uni1F4B uni1F4B u1F4B
+uni1F4C uni1F4C u1F4C
+uni1F4D uni1F4D u1F4D
+uni1F50 uni1F50 u1F50
+uni1F51 uni1F51 u1F51
+uni1F52 uni1F52 u1F52
+uni1F53 uni1F53 u1F53
+uni1F54 uni1F54 u1F54
+uni1F55 uni1F55 u1F55
+uni1F56 uni1F56 u1F56
+uni1F57 uni1F57 u1F57
+uni1F59 uni1F59 u1F59
+uni1F5B uni1F5B u1F5B
+uni1F5D uni1F5D u1F5D
+uni1F5F uni1F5F u1F5F
+uni1F60 uni1F60 u1F60
+uni1F61 uni1F61 u1F61
+uni1F62 uni1F62 u1F62
+uni1F63 uni1F63 u1F63
+uni1F64 uni1F64 u1F64
+uni1F65 uni1F65 u1F65
+uni1F66 uni1F66 u1F66
+uni1F67 uni1F67 u1F67
+uni1F68 uni1F68 u1F68
+uni1F69 uni1F69 u1F69
+uni1F6A uni1F6A u1F6A
+uni1F6B uni1F6B u1F6B
+uni1F6C uni1F6C u1F6C
+uni1F6D uni1F6D u1F6D
+uni1F6E uni1F6E u1F6E
+uni1F6F uni1F6F u1F6F
+uni1F70 uni1F70 u1F70
+uni1F71 uni1F71 u1F71
+uni1F72 uni1F72 u1F72
+uni1F73 uni1F73 u1F73
+uni1F74 uni1F74 u1F74
+uni1F75 uni1F75 u1F75
+uni1F76 uni1F76 u1F76
+uni1F77 uni1F77 u1F77
+uni1F78 uni1F78 u1F78
+uni1F79 uni1F79 u1F79
+uni1F7A uni1F7A u1F7A
+uni1F7B uni1F7B u1F7B
+uni1F7C uni1F7C u1F7C
+uni1F7D uni1F7D u1F7D
+uni1F80 uni1F80 u1F80
+uni1F81 uni1F81 u1F81
+uni1F82 uni1F82 u1F82
+uni1F83 uni1F83 u1F83
+uni1F84 uni1F84 u1F84
+uni1F85 uni1F85 u1F85
+uni1F86 uni1F86 u1F86
+uni1F87 uni1F87 u1F87
+uni1F88 uni1F88 u1F88
+uni1F89 uni1F89 u1F89
+uni1F8A uni1F8A u1F8A
+uni1F8B uni1F8B u1F8B
+uni1F8C uni1F8C u1F8C
+uni1F8D uni1F8D u1F8D
+uni1F8E uni1F8E u1F8E
+uni1F8F uni1F8F u1F8F
+uni1F90 uni1F90 u1F90
+uni1F91 uni1F91 u1F91
+uni1F92 uni1F92 u1F92
+uni1F93 uni1F93 u1F93
+uni1F94 uni1F94 u1F94
+uni1F95 uni1F95 u1F95
+uni1F96 uni1F96 u1F96
+uni1F97 uni1F97 u1F97
+uni1F98 uni1F98 u1F98
+uni1F99 uni1F99 u1F99
+uni1F9A uni1F9A u1F9A
+uni1F9B uni1F9B u1F9B
+uni1F9C uni1F9C u1F9C
+uni1F9D uni1F9D u1F9D
+uni1F9E uni1F9E u1F9E
+uni1F9F uni1F9F u1F9F
+uni1FA0 uni1FA0 u1FA0
+uni1FA1 uni1FA1 u1FA1
+uni1FA2 uni1FA2 u1FA2
+uni1FA3 uni1FA3 u1FA3
+uni1FA4 uni1FA4 u1FA4
+uni1FA5 uni1FA5 u1FA5
+uni1FA6 uni1FA6 u1FA6
+uni1FA7 uni1FA7 u1FA7
+uni1FA8 uni1FA8 u1FA8
+uni1FA9 uni1FA9 u1FA9
+uni1FAA uni1FAA u1FAA
+uni1FAB uni1FAB u1FAB
+uni1FAC uni1FAC u1FAC
+uni1FAD uni1FAD u1FAD
+uni1FAE uni1FAE u1FAE
+uni1FAF uni1FAF u1FAF
+uni1FB0 uni1FB0 u1FB0
+uni1FB1 uni1FB1 u1FB1
+uni1FB2 uni1FB2 u1FB2
+uni1FB3 uni1FB3 u1FB3
+uni1FB4 uni1FB4 u1FB4
+uni1FB6 uni1FB6 u1FB6
+uni1FB7 uni1FB7 u1FB7
+uni1FB8 uni1FB8 u1FB8
+uni1FB9 uni1FB9 u1FB9
+uni1FBA uni1FBA u1FBA
+uni1FBB uni1FBB u1FBB
+uni1FBC uni1FBC u1FBC
+uni1FBD uni1FBD u1FBD
+uni1FBE uni1FBE u1FBE
+uni1FBF uni1FBF u1FBF
+uni1FC0 uni1FC0 u1FC0
+uni1FC1 uni1FC1 u1FC1
+uni1FC2 uni1FC2 u1FC2
+uni1FC3 uni1FC3 u1FC3
+uni1FC4 uni1FC4 u1FC4
+uni1FC6 uni1FC6 u1FC6
+uni1FC7 uni1FC7 u1FC7
+uni1FC8 uni1FC8 u1FC8
+uni1FC9 uni1FC9 u1FC9
+uni1FCA uni1FCA u1FCA
+uni1FCB uni1FCB u1FCB
+uni1FCC uni1FCC u1FCC
+uni1FCD uni1FCD u1FCD
+uni1FCE uni1FCE u1FCE
+uni1FCF uni1FCF u1FCF
+uni1FD0 uni1FD0 u1FD0
+uni1FD1 uni1FD1 u1FD1
+uni1FD2 uni1FD2 u1FD2
+uni1FD3 uni1FD3 u1FD3
+uni1FD6 uni1FD6 u1FD6
+uni1FD7 uni1FD7 u1FD7
+uni1FD8 uni1FD8 u1FD8
+uni1FD9 uni1FD9 u1FD9
+uni1FDA uni1FDA u1FDA
+uni1FDB uni1FDB u1FDB
+uni1FDD uni1FDD u1FDD
+uni1FDE uni1FDE u1FDE
+uni1FDF uni1FDF u1FDF
+uni1FE0 uni1FE0 u1FE0
+uni1FE1 uni1FE1 u1FE1
+uni1FE2 uni1FE2 u1FE2
+uni1FE3 uni1FE3 u1FE3
+uni1FE4 uni1FE4 u1FE4
+uni1FE5 uni1FE5 u1FE5
+uni1FE6 uni1FE6 u1FE6
+uni1FE7 uni1FE7 u1FE7
+uni1FE8 uni1FE8 u1FE8
+uni1FE9 uni1FE9 u1FE9
+uni1FEA uni1FEA u1FEA
+uni1FEB uni1FEB u1FEB
+uni1FEC uni1FEC u1FEC
+uni1FED uni1FED u1FED
+uni1FEE uni1FEE u1FEE
+uni1FEF uni1FEF u1FEF
+uni1FF2 uni1FF2 u1FF2
+uni1FF3 uni1FF3 u1FF3
+uni1FF4 uni1FF4 u1FF4
+uni1FF6 uni1FF6 u1FF6
+uni1FF7 uni1FF7 u1FF7
+uni1FF8 uni1FF8 u1FF8
+uni1FF9 uni1FF9 u1FF9
+uni1FFA uni1FFA u1FFA
+uni1FFB uni1FFB u1FFB
+uni1FFC uni1FFC u1FFC
+uni1FFD uni1FFD u1FFD
+uni1FFE uni1FFE u1FFE
+uni200E  afii299 u200E
+uni200F  afii300 u200F
+figuredash  figuredash  u2012
+uni2016 uni2016 u2016
+uni201F uni201F u201F
+uni202A uni202A u202A
+uni202B uni202B u202B
+uni202C  afii61573 u202C
+uni202D  afii61574 u202D
+uni202E  afii61575 u202E
+uni202F uni202F u202F
+uni2034 uni2034 u2034
+uni203E uni203E u203E
+uni205E uni205E u205E
+uni206A uni206A u206A
+uni206B uni206B u206B
+uni206C uni206C u206C
+uni206D uni206D u206D
+uni206E uni206E u206E
+uni206F uni206F u206F
+zerosuperior  zerosuperior  u2070
+sixsuperior sixsuperior u2076
+ninesuperior  ninesuperior  u2079
+uni2090 uni2090 u2090
+uni2091 uni2091 u2091
+uni2092 uni2092 u2092
+uni2093 uni2093 u2093
+uni2094 uni2094 u2094
+uni20A0 uni20A0 u20A0
+colonmonetary colonmonetary u20A1
+uni20A2 uni20A2 u20A2
+uni20A5 uni20A5 u20A5
+uni20A6 uni20A6 u20A6
+uni20A8 uni20A8 u20A8
+uni20A9 uni20A9 u20A9
+uni20AD uni20AD u20AD
+uni20AE uni20AE u20AE
+uni20AF uni20AF u20AF
+uni20B0 uni20B0 u20B0
+uni20B1 uni20B1 u20B1
+uni20B2 uni20B2 u20B2
+uni20B3 uni20B3 u20B3
+uni20B4 uni20B4 u20B4
+uni20B5 uni20B5 u20B5
+uni20F0 uni20F0 u20F0
+uni2117 uni2117 u2117
+uni214D uni214D u214D
+uni214E uni214E u214E
+onethird  onethird  u2153
+twothirds twothirds u2154
+uni2184 uni2184 u2184
+arrowleft arrowleft u2190
+arrowup arrowup u2191
+arrowright  arrowright  u2192
+arrowdown arrowdown u2193
+arrowboth arrowboth u2194
+arrowupdn arrowupdn u2195
+arrowupdnbse  arrowupdnbse  u21A8
+uni2215 uni2215 u2215
+uni2219 uni2219 u2219
+orthogonal  orthogonal  u221F
+intersection  intersection  u2229
+equivalence equivalence u2261
+house house u2302
+revlogicalnot revlogicalnot u2310
+integraltp  integraltp  u2320
+integralbt  integralbt  u2321
+SF100000  SF100000  u2500
+SF110000  SF110000  u2502
+SF010000  SF010000  u250C
+SF030000  SF030000  u2510
+SF020000  SF020000  u2514
+SF040000  SF040000  u2518
+SF080000  SF080000  u251C
+SF090000  SF090000  u2524
+SF060000  SF060000  u252C
+SF070000  SF070000  u2534
+SF050000  SF050000  u253C
+SF430000  SF430000  u2550
+SF240000  SF240000  u2551
+SF510000  SF510000  u2552
+SF520000  SF520000  u2553
+SF390000  SF390000  u2554
+SF220000  SF220000  u2555
+SF210000  SF210000  u2556
+SF250000  SF250000  u2557
+SF500000  SF500000  u2558
+SF490000  SF490000  u2559
+SF380000  SF380000  u255A
+SF280000  SF280000  u255B
+SF270000  SF270000  u255C
+SF260000  SF260000  u255D
+SF360000  SF360000  u255E
+SF370000  SF370000  u255F
+SF420000  SF420000  u2560
+SF190000  SF190000  u2561
+SF200000  SF200000  u2562
+SF230000  SF230000  u2563
+SF470000  SF470000  u2564
+SF480000  SF480000  u2565
+SF410000  SF410000  u2566
+SF450000  SF450000  u2567
+SF460000  SF460000  u2568
+SF400000  SF400000  u2569
+SF540000  SF540000  u256A
+SF530000  SF530000  u256B
+SF440000  SF440000  u256C
+upblock upblock u2580
+dnblock dnblock u2584
+block block u2588
+lfblock lfblock u258C
+rtblock rtblock u2590
+ltshade ltshade u2591
+shade shade u2592
+dkshade dkshade u2593
+filledbox filledbox u25A0
+H22073  H22073  u25A1
+H18543  H18543  u25AA
+H18551  H18551  u25AB
+filledrect  filledrect  u25AC
+triagup triagup u25B2
+triagrt triagrt u25BA
+triagdn triagdn u25BC
+triaglf triaglf u25C4
+circle  circle  u25CB
+H18533  H18533  u25CF
+invbullet invbullet u25D8
+invcircle invcircle u25D9
+openbullet  openbullet  u25E6
+smileface smileface u263A
+invsmileface  invsmileface  u263B
+sun sun u263C
+female  female  u2640
+male  male  u2642
+spade spade u2660
+club  club  u2663
+heart heart u2665
+diamond diamond u2666
+musicalnote musicalnote u266A
+musicalnotedbl  musicalnotedbl  u266B
+uni266F uni266F u266F
+uni2C60 uni2C60 u2C60
+uni2C61 uni2C61 u2C61
+uni2C62 uni2C62 u2C62
+uni2C63 uni2C63 u2C63
+uni2C64 uni2C64 u2C64
+uni2C65 uni2C65 u2C65
+uni2C66 uni2C66 u2C66
+uni2C67 uni2C67 u2C67
+uni2C68 uni2C68 u2C68
+uni2C69 uni2C69 u2C69
+uni2C6A uni2C6A u2C6A
+uni2C6B uni2C6B u2C6B
+uni2C6C uni2C6C u2C6C
+uni2C6D uni2C6D u2C6D
+uni2C71 uni2C71 u2C71
+uni2C72 uni2C72 u2C72
+uni2C73 uni2C73 u2C73
+uni2C74 uni2C74 u2C74
+uni2C75 uni2C75 u2C75
+uni2C76 uni2C76 u2C76
+uni2C77 uni2C77 u2C77
+uni2E17 uni2E17 u2E17
+uniA717 uniA717 uA717
+uniA718 uniA718 uA718
+uniA719 uniA719 uA719
+uniA71A uniA71A uA71A
+uniA71B uniA71B uA71B
+uniA71C uniA71C uA71C
+uniA71D uniA71D uA71D
+uniA71E uniA71E uA71E
+uniA71F uniA71F uA71F
+uniA720 uniA720 uA720
+uniA721 uniA721 uA721
+uniA788 uniA788 uA788
+uniA789 uniA789 uA789
+uniA78A uniA78A uA78A
+uniA78B uniA78B uA78B
+uniA78C uniA78C uA78C
+g2140 g2140
+g2141 g2141
+uniFE20 uniFE20 uFE20
+uniFE21 uniFE21 uFE21
+uniFE22 uniFE22 uFE22
+uniFE23 uniFE23 uFE23
+g2146 g2146
+g2147 g2147
+g2148 g2148
+g2149 g2149
+g2150 g2150
+g2151 g2151
+g2152 g2152
+g2153 g2153
+g2154 g2154
+g2155 g2155
+g2156 g2156
+g2157 g2157
+g2158 g2158
+g2159 g2159
+g2160 g2160
+g2161 g2161
+g2162 g2162
+g2163 g2163
+g2164 g2164
+g2165 g2165
+g2166 g2166
+g2167 g2167
+g2168 g2168
+g2169 g2169
+g2170 g2170
+g2171 g2171
+g2172 g2172
+g2173 g2173
+g2174 g2174
+g2175 g2175
+g2176 g2176
+g2177 g2177
+g2178 g2178
+g2179 g2179
+g2180 g2180
+g2181 g2181
+g2182 g2182
+g2183 g2183
+g2184 g2184
+g2185 g2185
+g2186 g2186
+g2187 g2187
+g2188 g2188
+g2189 g2189
+g2190 g2190
+g2191 g2191
+g2192 g2192
+g2193 g2193
+g2194 g2194
+g2195 g2195
+g2196 g2196
+g2197 g2197
+g2198 g2198
+g2199 g2199
+g2200 g2200
+g2201 g2201
+g2202 g2202
+g2203 g2203
+g2204 g2204
+g2205 g2205
+g2206 g2206
+g2207 g2207
+g2208 g2208
+g2209 g2209
+g2210 g2210
+g2211 g2211
+g2212 g2212
+g2213 g2213
+g2214 g2214
+g2215 g2215
+g2216 g2216
+g2217 g2217
+g2218 g2218
+g2219 g2219
+g2220 g2220
+g2221 g2221
+g2222 g2222
+g2223 g2223
+g2224 g2224
+g2225 g2225
+g2226 g2226
+g2227 g2227
+g2228 g2228
+g2229 g2229
+g2230 g2230
+g2231 g2231
+g2232 g2232
+g2233 g2233
+g2234 g2234
+g2235 g2235
+g2236 g2236
+g2237 g2237
+g2238 g2238
+g2239 g2239
+g2240 g2240
+g2241 g2241
+g2242 g2242
+g2243 g2243
+g2244 g2244
+g2245 g2245
+g2246 g2246
+g2247 g2247
+g2248 g2248
+g2249 g2249
+g2250 g2250
+g2251 g2251
+g2252 g2252
+g2253 g2253
+g2254 g2254
+g2255 g2255
+g2256 g2256
+g2257 g2257
+g2258 g2258
+g2259 g2259
+g2260 g2260
+g2261 g2261
+g2262 g2262
+g2263 g2263
+g2264 g2264
+g2265 g2265
+g2266 g2266
+g2267 g2267
+g2268 g2268
+g2269 g2269
+g2270 g2270
+g2271 g2271
+g2272 g2272
+g2273 g2273
+g2274 g2274
+g2275 g2275
+g2276 g2276
+g2277 g2277
+g2278 g2278
+g2279 g2279
+g2280 g2280
+g2281 g2281
+g2282 g2282
+g2283 g2283
+g2284 g2284
+g2285 g2285
+g2286 g2286
+g2287 g2287
+g2288 g2288
+g2289 g2289
+g2290 g2290
+g2291 g2291
+g2292 g2292
+g2293 g2293
+g2294 g2294
+g2295 g2295
+g2296 g2296
+g2297 g2297
+g2298 g2298
+g2299 g2299
+g2300 g2300
+g2301 g2301
+g2302 g2302
+g2303 g2303
+g2304 g2304
+g2305 g2305
+g2306 g2306
+g2307 g2307
+g2308 g2308
+g2309 g2309
+g2310 g2310
+g2311 g2311
+g2312 g2312
+g2313 g2313
+g2314 g2314
+g2315 g2315
+g2316 g2316
+g2317 g2317
+g2318 g2318
+g2319 g2319
+g2320 g2320
+g2321 g2321
+g2322 g2322
+g2323 g2323
+g2324 g2324
+g2325 g2325
+g2326 g2326
+g2327 g2327
+g2328 g2328
+g2329 g2329
+g2330 g2330
+g2331 g2331
+g2332 g2332
+g2333 g2333
+g2334 g2334
+g2335 g2335
+g2336 g2336
+g2337 g2337
+g2338 g2338
+g2339 g2339
+g2340 g2340
+g2341 g2341
+uni0514 uni0514 u0514
+uni0515 uni0515 u0515
+uni0516 uni0516 u0516
+uni0517 uni0517 u0517
+uni0518 uni0518 u0518
+uni0519 uni0519 u0519
+uni051E uni051E u051E
+uni051F uni051F u051F
+uni0520 uni0520 u0520
+uni0521 uni0521 u0521
+uni0522 uni0522 u0522
+uni0523 uni0523 u0523
+uni0524 uni0524 u0524
+uni0525 uni0525 u0525
+uni0526 uni0526 u0526
+uni0527 uni0527 u0527
+g2358 g2358
+uni20BA uni20BA u20BA
+uni0000 uni0000 u0000
+uni000D uni000D u000D
+space space u0020
+uni0901 uni0901 u0901
+uni0902 uni0902 u0902
+uni0903 uni0903 u0903
+uni0904 uni0904 u0904
+uni0905 uni0905 u0905
+uni0906 uni0906 u0906
+uni0907 uni0907 u0907
+uni0908 uni0908 u0908
+uni0909 uni0909 u0909
+uni090A uni090A u090A
+uni090B uni090B u090B
+uni090C uni090C u090C
+uni090D uni090D u090D
+uni090E uni090E u090E
+uni090F uni090F u090F
+uni0910 uni0910 u0910
+uni0911 uni0911 u0911
+uni0912 uni0912 u0912
+uni0913 uni0913 u0913
+uni0914 uni0914 u0914
+uni0915 uni0915 u0915
+uni0916 uni0916 u0916
+uni0917 uni0917 u0917
+uni0918 uni0918 u0918
+uni0919 uni0919 u0919
+uni091A uni091A u091A
+uni091B uni091B u091B
+uni091C uni091C u091C
+uni091D uni091D u091D
+uni091E uni091E u091E
+uni091F uni091F u091F
+uni0920 uni0920 u0920
+uni0921 uni0921 u0921
+uni0922 uni0922 u0922
+uni0923 uni0923 u0923
+uni0924 uni0924 u0924
+uni0925 uni0925 u0925
+uni0926 uni0926 u0926
+uni0927 uni0927 u0927
+uni0928 uni0928 u0928
+uni0929 uni0929 u0929
+uni092A uni092A u092A
+uni092B uni092B u092B
+uni092C uni092C u092C
+uni092D uni092D u092D
+uni092E uni092E u092E
+uni092F uni092F u092F
+uni0930 uni0930 u0930
+uni0931 uni0931 u0931
+uni0932 uni0932 u0932
+uni0933 uni0933 u0933
+uni0934 uni0934 u0934
+uni0935 uni0935 u0935
+uni0936 uni0936 u0936
+uni0937 uni0937 u0937
+uni0938 uni0938 u0938
+uni0939 uni0939 u0939
+uni093C uni093C u093C
+uni093D uni093D u093D
+uni093E uni093E u093E
+uni093F uni093F u093F
+uni0940 uni0940 u0940
+uni0941 uni0941 u0941
+uni0942 uni0942 u0942
+uni0943 uni0943 u0943
+uni0944 uni0944 u0944
+uni0945 uni0945 u0945
+uni0946 uni0946 u0946
+uni0947 uni0947 u0947
+uni0948 uni0948 u0948
+uni0949 uni0949 u0949
+uni094A uni094A u094A
+uni094B uni094B u094B
+uni094C uni094C u094C
+uni094D uni094D u094D
+uni0950 uni0950 u0950
+uni0951 uni0951 u0951
+uni0952 uni0952 u0952
+uni0953 uni0953 u0953
+uni0954 uni0954 u0954
+uni0958 uni0958 u0958
+uni0959 uni0959 u0959
+uni095A uni095A u095A
+uni095B uni095B u095B
+uni095C uni095C u095C
+uni095D uni095D u095D
+uni095E uni095E u095E
+uni095F uni095F u095F
+uni0960 uni0960 u0960
+uni0961 uni0961 u0961
+uni0962 uni0962 u0962
+uni0963 uni0963 u0963
+uni0964 uni0964 u0964
+uni0965 uni0965 u0965
+uni0966 uni0966 u0966
+uni0967 uni0967 u0967
+uni0968 uni0968 u0968
+uni0969 uni0969 u0969
+uni096A uni096A u096A
+uni096B uni096B u096B
+uni096C uni096C u096C
+uni096D uni096D u096D
+uni096E uni096E u096E
+uni096F uni096F u096F
+uni0970 uni0970 u0970
+uni0971 uni0971 u0971
+uni0972 uni0972 u0972
+uni097B uni097B u097B
+uni097C uni097C u097C
+uni097D uni097D u097D
+uni097E uni097E u097E
+uni097F uni097F u097F
+uni02BC  afii57929 u02BC
+uni200C  afii61664 u200C
+uni200D  afii301 u200D
+uni25CC uni25CC u25CC
+g2479 g2479
+g2480 g2480
+g2481 g2481
+g2482 g2482
+g2483 g2483
+g2484 g2484
+g2485 g2485
+g2486 g2486
+g2487 g2487
+g2488 g2488
+g2489 g2489
+g2490 g2490
+g2491 g2491
+g2492 g2492
+g2493 g2493
+g2494 g2494
+g2495 g2495
+g2496 g2496
+g2497 g2497
+g2498 g2498
+g2499 g2499
+g2500 g2500
+g2501 g2501
+g2502 g2502
+g2503 g2503
+g2504 g2504
+g2505 g2505
+g2506 g2506
+g2507 g2507
+g2508 g2508
+g2509 g2509
+g2510 g2510
+g2511 g2511
+g2512 g2512
+g2513 g2513
+g2514 g2514
+g2515 g2515
+g2516 g2516
+g2517 g2517
+g2518 g2518
+g2519 g2519
+g2520 g2520
+g2521 g2521
+g2522 g2522
+g2523 g2523
+g2524 g2524
+g2525 g2525
+g2526 g2526
+g2527 g2527
+g2528 g2528
+g2529 g2529
+g2530 g2530
+g2531 g2531
+g2532 g2532
+g2533 g2533
+g2534 g2534
+g2535 g2535
+g2536 g2536
+g2537 g2537
+g2538 g2538
+g2539 g2539
+g2540 g2540
+g2541 g2541
+g2542 g2542
+g2543 g2543
+g2544 g2544
+g2545 g2545
+g2546 g2546
+g2547 g2547
+g2548 g2548
+g2549 g2549
+g2550 g2550
+g2551 g2551
+g2552 g2552
+g2553 g2553
+g2554 g2554
+g2555 g2555
+g2556 g2556
+g2557 g2557
+g2558 g2558
+g2559 g2559
+g2560 g2560
+g2561 g2561
+g2562 g2562
+g2563 g2563
+g2564 g2564
+g2565 g2565
+g2566 g2566
+g2567 g2567
+g2568 g2568
+g2569 g2569
+g2570 g2570
+g2571 g2571
+g2572 g2572
+g2573 g2573
+g2574 g2574
+g2575 g2575
+g2576 g2576
+g2577 g2577
+g2578 g2578
+g2579 g2579
+g2580 g2580
+g2581 g2581
+g2582 g2582
+g2583 g2583
+g2584 g2584
+g2585 g2585
+g2586 g2586
+g2587 g2587
+g2588 g2588
+g2589 g2589
+g2590 g2590
+g2591 g2591
+g2592 g2592
+g2593 g2593
+g2594 g2594
+g2595 g2595
+g2596 g2596
+g2597 g2597
+g2598 g2598
+g2599 g2599
+g2600 g2600
+g2601 g2601
+g2602 g2602
+g2603 g2603
+g2604 g2604
+g2605 g2605
+g2606 g2606
+g2607 g2607
+g2608 g2608
+g2609 g2609
+g2610 g2610
+g2611 g2611
+g2612 g2612
+g2613 g2613
+g2614 g2614
+g2615 g2615
+g2616 g2616
+g2617 g2617
+g2618 g2618
+g2619 g2619
+g2620 g2620
+g2621 g2621
+g2622 g2622
+g2623 g2623
+g2624 g2624
+g2625 g2625
+g2626 g2626
+g2627 g2627
+g2628 g2628
+g2629 g2629
+g2630 g2630
+g2631 g2631
+g2632 g2632
+g2633 g2633
+g2634 g2634
+g2635 g2635
+g2636 g2636
+g2637 g2637
+g2638 g2638
+g2639 g2639
+g2640 g2640
+g2641 g2641
+g2642 g2642
+g2643 g2643
+g2644 g2644
+g2645 g2645
+g2646 g2646
+g2647 g2647
+g2648 g2648
+g2649 g2649
+g2650 g2650
+g2651 g2651
+g2652 g2652
+g2653 g2653
+g2654 g2654
+g2655 g2655
+g2656 g2656
+g2657 g2657
+g2658 g2658
+g2659 g2659
+g2660 g2660
+g2661 g2661
+g2662 g2662
+g2663 g2663
+g2664 g2664
+g2665 g2665
+g2666 g2666
+g2667 g2667
+g2668 g2668
+g2669 g2669
+g2670 g2670
+g2671 g2671
+g2672 g2672
+g2673 g2673
+g2674 g2674
+g2675 g2675
+g2676 g2676
+g2677 g2677
+g2678 g2678
+g2679 g2679
+g2680 g2680
+g2681 g2681
+g2682 g2682
+g2683 g2683
+g2684 g2684
+g2685 g2685
+g2686 g2686
+g2687 g2687
+g2688 g2688
+g2689 g2689
+g2690 g2690
+g2691 g2691
+g2692 g2692
+g2693 g2693
+g2694 g2694
+g2695 g2695
+g2696 g2696
+g2697 g2697
+g2698 g2698
+g2699 g2699
+g2700 g2700
+g2701 g2701
+g2702 g2702
+g2703 g2703
+g2704 g2704
+g2705 g2705
+g2706 g2706
+g2707 g2707
+g2708 g2708
+g2709 g2709
+g2710 g2710
+g2711 g2711
+g2712 g2712
+g2713 g2713
+g2714 g2714
+g2715 g2715
+g2716 g2716
+g2717 g2717
+g2718 g2718
+g2719 g2719
+g2720 g2720
+g2721 g2721
+g2722 g2722
+g2723 g2723
+g2724 g2724
+g2725 g2725
+g2726 g2726
+g2727 g2727
+g2728 g2728
+g2729 g2729
+g2730 g2730
+g2731 g2731
+g2732 g2732
+g2733 g2733
+g2734 g2734
+g2735 g2735
+g2736 g2736
+g2737 g2737
+g2738 g2738
+g2739 g2739
+g2740 g2740
+g2741 g2741
+g2742 g2742
+g2743 g2743
+g2744 g2744
+g2745 g2745
+g2746 g2746
+g2747 g2747
+g2748 g2748
+g2749 g2749
+g2750 g2750
+g2751 g2751
+g2752 g2752
+g2753 g2753
+g2754 g2754
+g2755 g2755
+g2756 g2756
+g2757 g2757
+g2758 g2758
+g2759 g2759
+g2760 g2760
+g2761 g2761
+g2762 g2762
+g2763 g2763
+g2764 g2764
+g2765 g2765
+g2766 g2766
+g2767 g2767
+g2768 g2768
+g2769 g2769
+g2770 g2770
+g2771 g2771
+g2772 g2772
+g2773 g2773
+g2774 g2774
+g2775 g2775
+g2776 g2776
+g2777 g2777
+g2778 g2778
+g2779 g2779
+g2780 g2780
+g2781 g2781
+g2782 g2782
+g2783 g2783
+g2784 g2784
+g2785 g2785
+g2786 g2786
+g2787 g2787
+g2788 g2788
+g2789 g2789
+g2790 g2790
+g2791 g2791
+g2792 g2792
+g2793 g2793
+g2794 g2794
+g2795 g2795
+g2796 g2796
+g2797 g2797
+g2798 g2798
+g2799 g2799
+g2800 g2800
+g2801 g2801
+g2802 g2802
+g2803 g2803
+g2804 g2804
+g2805 g2805
+g2806 g2806
+g2807 g2807
+g2808 g2808
+g2809 g2809
+g2810 g2810
+g2811 g2811
+g2812 g2812
+g2813 g2813
+g2814 g2814
+g2815 g2815
+g2816 g2816
+g2817 g2817
+g2818 g2818
+g2819 g2819
+g2820 g2820
+g2821 g2821
+g2822 g2822
+g2823 g2823
+g2824 g2824
+g2825 g2825
+g2826 g2826
+g2827 g2827
+g2828 g2828
+g2829 g2829
+g2830 g2830
+g2831 g2831
+g2832 g2832
+g2833 g2833
+g2834 g2834
+g2835 g2835
+g2836 g2836
+g2837 g2837
+g2838 g2838
+g2839 g2839
+g2840 g2840
+g2841 g2841
+g2842 g2842
+g2843 g2843
+g2844 g2844
+g2845 g2845
+g2846 g2846
+g2847 g2847
+g2848 g2848
+g2849 g2849
+g2850 g2850
+g2851 g2851
+g2852 g2852
+g2853 g2853
+g2854 g2854
+g2855 g2855
+g2856 g2856
+g2857 g2857
+g2858 g2858
+g2859 g2859
+g2860 g2860
+g2861 g2861
+g2862 g2862
+g2863 g2863
+g2864 g2864
+g2865 g2865
+g2866 g2866
+g2867 g2867
+g2868 g2868
+g2869 g2869
+g2870 g2870
+g2871 g2871
+g2872 g2872
+g2873 g2873
+g2874 g2874
+g2875 g2875
+g2876 g2876
+g2877 g2877
+g2878 g2878
+g2879 g2879
+g2880 g2880
+g2881 g2881
+g2882 g2882
+g2883 g2883
+g2884 g2884
+g2885 g2885
+g2886 g2886
+g2887 g2887
+g2888 g2888
+g2889 g2889
+g2890 g2890
+g2891 g2891
+g2892 g2892
+g2893 g2893
+g2894 g2894
+g2895 g2895
+g2896 g2896
+g2897 g2897
+g2898 g2898
+g2899 g2899
+g2900 g2900
+g2901 g2901
+g2902 g2902
+g2903 g2903
+g2904 g2904
+g2905 g2905
+g2906 g2906
+g2907 g2907
+g2908 g2908
+g2909 g2909
+g2910 g2910
+g2911 g2911
+g2912 g2912
+g2913 g2913
+g2914 g2914
+g2915 g2915
+g2916 g2916
+g2917 g2917
+g2918 g2918
+g2919 g2919
+g2920 g2920
+g2921 g2921
+g2922 g2922
+g2923 g2923
+g2924 g2924
+g2925 g2925
+g2926 g2926
+g2927 g2927
+g2928 g2928
+g2929 g2929
+g2930 g2930
+g2931 g2931
+g2932 g2932
+g2933 g2933
+g2934 g2934
+g2935 g2935
+g2936 g2936
+g2937 g2937
+g2938 g2938
+g2939 g2939
+g2940 g2940
+g2941 g2941
+g2942 g2942
+g2943 g2943
+g2944 g2944
+g2945 g2945
+g2946 g2946
+g2947 g2947
+g2948 g2948
+g2949 g2949
+g2950 g2950
+g2951 g2951
+g2952 g2952
+g2953 g2953
+g2954 g2954
+g2955 g2955
+g2956 g2956
+g2957 g2957
+g2958 g2958
+g2959 g2959
+g2960 g2960
+g2961 g2961
+g2962 g2962
+g2963 g2963
+g2964 g2964
+g2965 g2965
+g2966 g2966
+g2967 g2967
+g2968 g2968
+g2969 g2969
+g2970 g2970
+g2971 g2971
+g2972 g2972
+g2973 g2973
+g2974 g2974
+g2975 g2975
+g2976 g2976
+g2977 g2977
+g2978 g2978
+g2979 g2979
+g2980 g2980
+g2981 g2981
+exclam  exclam  u0021
+quotedbl  quotedbl  u0022
+numbersign  numbersign  u0023
+percent percent u0025
+quotesingle quotesingle u0027
+parenleft parenleft u0028
+parenright  parenright  u0029
+asterisk  asterisk  u002A
+plus  plus  u002B
+comma comma u002C
+hyphen  hyphen  u002D
+period  period  u002E
+slash slash u002F
+zero  zero  u0030
+one one u0031
+two two u0032
+three three u0033
+four  four  u0034
+five  five  u0035
+six six u0036
+seven seven u0037
+eight eight u0038
+nine  nine  u0039
+colon colon u003A
+semicolon semicolon u003B
+less  less  u003C
+equal equal u003D
+greater greater u003E
+question  question  u003F
+bracketleft bracketleft u005B
+backslash backslash u005C
+bracketright  bracketright  u005D
+asciicircum asciicircum u005E
+underscore  underscore  u005F
+braceleft braceleft u007B
+bar bar u007C
+braceright  braceright  u007D
+asciitilde  asciitilde  u007E
+macron  macron  u00AF
+endash  endash  u2013
+emdash  emdash  u2014
+quoteleft quoteleft u2018
+quoteright  quoteright  u2019
+quotedblleft  quotedblleft  u201C
+quotedblright quotedblright u201D
+ellipsis  ellipsis  u2026
+multiply  multiply  u00D7
+divide  divide  u00F7
+minus minus u2212
+uni20B9 uni20B9 u20B9
+uni200B uni200B u200B
+g3033 g3033
