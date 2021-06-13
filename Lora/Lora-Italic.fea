@@ -15,16 +15,15 @@ lookup diacritics {
   pos base [uni0431 uni0434] <anchor 240 0> mark @BOTTOM_MARKS;
 
   # ур (lowers)
-  pos base [uni0443 uni0440 f g j y] <anchor 280 500> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
+  pos base [uni0443 uni0440 f g j y p] <anchor 280 500> mark @TOP_MARKS <anchor 380 0> mark @BOTTOM_MARKS;
 
   # iıj...
   pos base [i dotlessi uni0456 l] <anchor 180 500> mark @TOP_MARKS <anchor 180 0> mark @BOTTOM_MARKS;
 
   # х
-  pos base [uni0445 b c d k q r s t v x z] <anchor 280 500> mark @TOP_MARKS <anchor 240 0> mark @BOTTOM_MARKS;
+  pos base [uni0445 b c d k q r s t v z] <anchor 280 500> mark @TOP_MARKS <anchor 200 0> mark @BOTTOM_MARKS;
 
-  # n p
-  pos base [n p] <anchor 280 500> mark @TOP_MARKS <anchor 320 0> mark @BOTTOM_MARKS;
+  pos base [n x] <anchor 360 500> mark @TOP_MARKS <anchor 300 0> mark @BOTTOM_MARKS;
 
   # ш м т ж
   pos base [uni0448 uni043C uni0442 uni0436 m w] <anchor 480 500> mark @TOP_MARKS <anchor 420 0> mark @BOTTOM_MARKS;
